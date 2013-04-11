@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+<channel>
+<title>PuG : An Original Media For Gamers Production</title>
+<link>http://www.omfg.fm</link>
+<language>en-us</language>
+<copyright>2011 Original Media for Gamers</copyright>
+<itunes:subtitle>PuG</itunes:subtitle>
+<itunes:author>Jesse Cox</itunes:author>
+<itunes:summary>PuG</itunes:summary>
+<description>“Pick up Group” is the culmination of years of hardwork and dedication - thrown right out the window. An interview show
+that defies convention and dares you to listen to it’s unscripted antics. Jesse Cox leads an all-star group of ever
+changing talent from around the interwebs in a discussion about gaming, culture, and other stuff that will be sure to
+make you laugh. If not, hey, it’s free.</description>
+<itunes:owner>
+<itunes:name>Jesse Cox</itunes:name>
+<itunes:email>PuG@OMFG.fm</itunes:email>
+</itunes:owner>
+<itunes:image href='http://www.omfg.fm/images/shows/pug-235x150.png'/>
+<image>
+<link>http://www.omfg.fm</link>
+<url>http://www.omfg.fm/images/shows/pug-235x150.png</url>
+<title>PuG : An Original Media For Gamers Production</title>
+<width>144</width>
+<height>150</height>
+</image>
+<itunes:category text='Games &amp; Hobbies'>
+<itunes:category text='Video Games'/>
+</itunes:category>
+<itunes:category text='Technology'>
+<itunes:category text='Podcasting'/>
+</itunes:category>
+<itunes:explicit>No</itunes:explicit>
+</channel>
+</rss>

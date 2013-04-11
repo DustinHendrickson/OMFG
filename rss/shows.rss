@@ -1,0 +1,1150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+<channel>
+<title>Original Media For Gamers Network</title>
+<link>http://www.omfg.fm</link>
+<language>en-us</language>
+<copyright>2011 Original Media for Gamers</copyright>
+<itunes:subtitle>Original Media For Gamers Network</itunes:subtitle>
+<itunes:author>OMFG.fm Hosts</itunes:author>
+<itunes:summary>Description</itunes:summary>
+<description>Description</description>
+<itunes:owner>
+<itunes:name>OMFG.fm Hosts</itunes:name>
+<itunes:email>omfg@omfg.fm</itunes:email>
+</itunes:owner>
+<itunes:image href='http://www.omfg.fm/images/logo.png'/>
+<image>
+<link>http://www.omfg.fm</link>
+<url>http://www.omfg.fm/images/logo.png</url>
+<title>Original Media For Gamers Network</title>
+<width>144</width>
+<height>150</height>
+</image>
+<itunes:category text='Games &amp; Hobbies'>
+<itunes:category text='Video Games'/>
+</itunes:category>
+<itunes:category text='Technology'>
+<itunes:category text='Podcasting'/>
+</itunes:category>
+<itunes:explicit>No</itunes:explicit>
+<item>
+<title>The Donut Shop - The Dustin's Internet Died</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Well this is the archive description!</itunes:summary>
+<description>Well this is the archive description!</description>
+<itunes:duration>02:00:00</itunes:duration>
+<itunes:keywords>donut shop, awesome, ya, yeah</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 22, 2010 04:13 PM</pubDate>
+<enclosure type='audio/mpeg' url='https://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-20.mp3' length='1'/>
+<link>https://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-20.mp3</link>
+<guid>https://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-20.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 1 Return of the Court</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this first episode after a 4 year hiatus, Emperor discusses topics such as the EA Booth Babes fiasco, World of Warcraft Mobile Armory, Starcraft 2 LAN controversy, and a review of the PS3 game Dynasty Warriors 6: Empires. Ranting and raving to resume as Emperor provides insight into the insanity that is the gaming world.</itunes:summary>
+<description>In this first episode after a 4 year hiatus, Emperor discusses topics such as the EA Booth Babes fiasco, World of Warcraft Mobile Armory, Starcraft 2 LAN controversy, and a review of the PS3 game Dynasty Warriors 6: Empires. Ranting and raving to resume as Emperor provides insight into the insanity that is the gaming world.</description>
+<itunes:duration>00:57:57</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:44 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec081109.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec081109.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec081109.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 2 WoW Expo Cataclysm, SC2, Game Industry dying, Wii hackers and more!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Well after a 1 day delay due to inclement weather and a host of technical nightmares, the show is here and to compensate for your longer wait time, the show is 93 mins long as opposed to its usual 60. 
+
+We discuss the new WOW Cataclysm, Starcraft 2, the death of the gaming industry, the 13th anniversary of the founding of Clan Imperial Guard, and a meltdown and rant by me about Wii hackers. BAH!
+
+Due to the bed music interfering with the voice audio, I have reedited and removed the bed music for this episode. I don't know what went haywire with it, but Ill try to include it in the next installment.</itunes:summary>
+<description>Well after a 1 day delay due to inclement weather and a host of technical nightmares, the show is here and to compensate for your longer wait time, the show is 93 mins long as opposed to its usual 60. 
+
+We discuss the new WOW Cataclysm, Starcraft 2, the death of the gaming industry, the 13th anniversary of the founding of Clan Imperial Guard, and a meltdown and rant by me about Wii hackers. BAH!
+
+Due to the bed music interfering with the voice audio, I have reedited and removed the bed music for this episode. I don't know what went haywire with it, but Ill try to include it in the next installment.</description>
+<itunes:duration>01:33:30</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:47 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec081809.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec081809.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec081809.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 3  FFIV After Years, NTW, Console FPS'ers Suck, Video Games make you fat!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this installment of the Emperor's Court, we take a first look at Creative Assembly's Napoleon: Total War, give a review of Square-Enix's WiiWare sequel to Final Fantasy 4, The After Years. We also read over some articles about scientific studies that say video games and the Internet make people fat and anti-social, a gaming camp for kids, and an Emperor Rant (tm) about PC FPS Gamers > Console FPS Gamers.</itunes:summary>
+<description>In this installment of the Emperor's Court, we take a first look at Creative Assembly's Napoleon: Total War, give a review of Square-Enix's WiiWare sequel to Final Fantasy 4, The After Years. We also read over some articles about scientific studies that say video games and the Internet make people fat and anti-social, a gaming camp for kids, and an Emperor Rant (tm) about PC FPS Gamers > Console FPS Gamers.</description>
+<itunes:duration>01:16:14</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:49 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec082809.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec082809.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec082809.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 4 Special Live Show!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This is the special live edition Emperor's Court with in studio guest host Highlander[1G]! This special edition runs 2 hours instead of the normal 1, and covers topics such as:
+
+Email backlash over Napoleon: Total War hype
+
+In depth look at Batman: Arkham's Asylum
+Debate over Disney's purchase of Marvel and what it means
+
+Emperor rants about Twilight fans of Twicon
+
+enjoy!</itunes:summary>
+<description>This is the special live edition Emperor's Court with in studio guest host Highlander[1G]! This special edition runs 2 hours instead of the normal 1, and covers topics such as:
+
+Email backlash over Napoleon: Total War hype
+
+In depth look at Batman: Arkham's Asylum
+Debate over Disney's purchase of Marvel and what it means
+
+Emperor rants about Twilight fans of Twicon
+
+enjoy!</description>
+<itunes:duration>02:03:13</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:51 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec090109.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec090109.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec090109.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 5 Apple Making a Game Console? EA to be bought?</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this delayed installment of the Emperor's Court, guest co-host Highlander[1G] joins us to discuss the swirling rumors of Apple entering into the console gaming industry, EA being bought by either Apple or Microsoft, and an Emperor's Rant on Guitar Hero and Courtney Love!</itunes:summary>
+<description>In this delayed installment of the Emperor's Court, guest co-host Highlander[1G] joins us to discuss the swirling rumors of Apple entering into the console gaming industry, EA being bought by either Apple or Microsoft, and an Emperor's Rant on Guitar Hero and Courtney Love!</description>
+<itunes:duration>01:33:25</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:53 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec092309.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec092309.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec092309.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 6 Follow up's and limericks!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This week we are without the presence of Highlander[1G]. We delve into follow ups to the dying of the gaming industry, and the acquisition of Marvel by Disney. The Emperor's Rant about Jack Thompson's lawsuit against Facebook, and some emails from the listeners, with a limerick from Mystic Mimm that she isn't aware I read over the air...yet...</itunes:summary>
+<description>This week we are without the presence of Highlander[1G]. We delve into follow ups to the dying of the gaming industry, and the acquisition of Marvel by Disney. The Emperor's Rant about Jack Thompson's lawsuit against Facebook, and some emails from the listeners, with a limerick from Mystic Mimm that she isn't aware I read over the air...yet...</description>
+<itunes:duration>00:48:04</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:55 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec100609.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec100609.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec100609.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 7 Return to LIVE!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The Emperor's Court is back to airing live here on World of Warcraft Radio on Fridays 7-9pm eastern!
+
+In this show, Emperor and Highlander discuss the Wii as a health tool according to the UK government, Facebook games are the scourge of the Internet, Console gaming vs. PC gaming cost/versatility, Highlander introduces the Quickening segment, and the Emperor's Rant focuses on Blizzard's selling of vanity pets and the release of DJ Hero.
+
+You'll love this one</itunes:summary>
+<description>The Emperor's Court is back to airing live here on World of Warcraft Radio on Fridays 7-9pm eastern!
+
+In this show, Emperor and Highlander discuss the Wii as a health tool according to the UK government, Facebook games are the scourge of the Internet, Console gaming vs. PC gaming cost/versatility, Highlander introduces the Quickening segment, and the Emperor's Rant focuses on Blizzard's selling of vanity pets and the release of DJ Hero.
+
+You'll love this one</description>
+<itunes:duration>01:49:08</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:57 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec110609.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec110609.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec110609.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 8 The Quickening Debuts</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this latest episode of the Court, Emperor and Highlander discuss emails from listeners regarding  PC gaming vs. Console gaming, digital downloading of games as opposed to purchasing hardcopy, the Quickening debuts where Highlander answers the listener questions...on any topic....with controversial and comic results.
+
+Other side topics include Highlander's convention chairman stories, Redneck Rockband, Mafia Wars on Facebook, Gay Friendly Guilds in World of Warcraft, and more!</itunes:summary>
+<description>In this latest episode of the Court, Emperor and Highlander discuss emails from listeners regarding  PC gaming vs. Console gaming, digital downloading of games as opposed to purchasing hardcopy, the Quickening debuts where Highlander answers the listener questions...on any topic....with controversial and comic results.
+
+Other side topics include Highlander's convention chairman stories, Redneck Rockband, Mafia Wars on Facebook, Gay Friendly Guilds in World of Warcraft, and more!</description>
+<itunes:duration>01:56:06</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:00 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec111309.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec111309.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec111309.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Eps. 9 Twilight sucks, MW2 doesnt, controversy!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this latest installment, Emperor and Highlander explore the recent controversy surrounding Modern Warfare 2, rag on countries from around the world, air a skit on Twilight meets To Catch a Predator, discuss the Top 10 Most Racist Toys, debate taking $60 in new movies vs. $60 for 1 new game.
+
+Also, listener emails, the Quickening, and Emperor's Meltdown.</itunes:summary>
+<description>In this latest installment, Emperor and Highlander explore the recent controversy surrounding Modern Warfare 2, rag on countries from around the world, air a skit on Twilight meets To Catch a Predator, discuss the Top 10 Most Racist Toys, debate taking $60 in new movies vs. $60 for 1 new game.
+
+Also, listener emails, the Quickening, and Emperor's Meltdown.</description>
+<itunes:duration>02:04:28</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:01 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec112009.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec112009.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec112009.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Emp Court Twilight Skit</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This is the uber-popular Twilight New Moon skit by Emperor and Highlander.  "To Catch a Predator" on PMSNBC hosted by  "Clark Hanson" interviews Robert Pattinson as to why he is hitting on 17 year old high school girls.</itunes:summary>
+<description>This is the uber-popular Twilight New Moon skit by Emperor and Highlander.  "To Catch a Predator" on PMSNBC hosted by  "Clark Hanson" interviews Robert Pattinson as to why he is hitting on 17 year old high school girls.</description>
+<itunes:duration>00:06:21</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:02 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ectwilightskit.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ectwilightskit.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ectwilightskit.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Eps. 10 Highlander takes over the Court!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Highlander runs the board tonight, taking over all aspects of the show with his own personal touch. Heavy debates about individual digital rights, Emperor meltsdown on the Xbox/Wal-mart conspiracy, and a ton more.</itunes:summary>
+<description>Highlander runs the board tonight, taking over all aspects of the show with his own personal touch. Heavy debates about individual digital rights, Emperor meltsdown on the Xbox/Wal-mart conspiracy, and a ton more.</description>
+<itunes:duration>02:00:10</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:04 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec112609.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec112609.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec112609.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Eps. 11 Online clans = IRL gangs? Seriously.</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>On this episode, sanity and normalcy returns to the Emperor's Court as Emperor regains control of the board.  Debate over the study that online guilds and clans are the same as in real life street gangs. The Spike TV Video Game Awards are coming up and our thoughts on them. Kexman and Almighty-Farseer from Essence of Role-Playing air a horrid impression of Emperor on their show, prompting delcarations of retaliation.
+
+And next week, Emperor will take over the Quickening!</itunes:summary>
+<description>On this episode, sanity and normalcy returns to the Emperor's Court as Emperor regains control of the board.  Debate over the study that online guilds and clans are the same as in real life street gangs. The Spike TV Video Game Awards are coming up and our thoughts on them. Kexman and Almighty-Farseer from Essence of Role-Playing air a horrid impression of Emperor on their show, prompting delcarations of retaliation.
+
+And next week, Emperor will take over the Quickening!</description>
+<itunes:duration>02:14:06</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:05 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec120409.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec120409.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec120409.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 12 VGA predictions, She-Ra, war?</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this episode, Emperor and Highlander switch places on their tried and true trademark segments. Emperor does the Quickening and Highlander does the Meltdown. The VGA awards are discussed in detail, with Emperor and Highlander making their predictions on what SpikeTV will choose to win various categories, but also what THEY would choose were they the judges.
+
+Articles discussed in regards to Brazil's government putting forth a bill to block "offensive" video games, some breaking news that interrupted the show, and a reminder to listeners who She-Ra is.</itunes:summary>
+<description>In this episode, Emperor and Highlander switch places on their tried and true trademark segments. Emperor does the Quickening and Highlander does the Meltdown. The VGA awards are discussed in detail, with Emperor and Highlander making their predictions on what SpikeTV will choose to win various categories, but also what THEY would choose were they the judges.
+
+Articles discussed in regards to Brazil's government putting forth a bill to block "offensive" video games, some breaking news that interrupted the show, and a reminder to listeners who She-Ra is.</description>
+<itunes:duration>02:18:56</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:07 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec121109.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec121109.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec121109.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 13 Emp poisons Santa (irl) and Highlander sings!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Emperor and Highlander break down the results of Spike TV's Video Game Awards with surprising accuracy. There is talk of $5000 gold played Playstation 3's and other Mac related hardware, plus discussion of the advancement in Nerf weaponry over the years  (Emp bought a fully automatic, ammo belt fed, tripod mounted Nerf machine gun). Emp and Highlander swap Christmas stories, and Highlander sings for the Quickening!</itunes:summary>
+<description>Emperor and Highlander break down the results of Spike TV's Video Game Awards with surprising accuracy. There is talk of $5000 gold played Playstation 3's and other Mac related hardware, plus discussion of the advancement in Nerf weaponry over the years  (Emp bought a fully automatic, ammo belt fed, tripod mounted Nerf machine gun). Emp and Highlander swap Christmas stories, and Highlander sings for the Quickening!</description>
+<itunes:duration>02:04:05</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:09 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec121809.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec121809.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec121809.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Episode 14 Questions answered, Emp solo, future?</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this episode, Emperor flies solo as Highlander is snowed in. The questions as to why WCRadio is closing its doors are answered, and the future of Emperor's Court is explained.
+
+A definitive answer will come on the January 16th show.
+
+topics:
+
+Video games are 4th on the list of things that entertain kids these days. Kids are fat.
+
+Electronic Arts stands behind Tiger Woods for an online golf game.
+
+MAG gets ready to debut later this month, what does this massive game hold for us, the player? Will it reach its potential?
+
+Stupid Video Game Moment of the week: Several stories are read of various players around the world of offed themselves or did something else stupid as it relates to gaming.
+
+Meltdown: Greenpeace attacks Nintendo and Microsoft on their e-waste and enviro-friendly business practices.</itunes:summary>
+<description>In this episode, Emperor flies solo as Highlander is snowed in. The questions as to why WCRadio is closing its doors are answered, and the future of Emperor's Court is explained.
+
+A definitive answer will come on the January 16th show.
+
+topics:
+
+Video games are 4th on the list of things that entertain kids these days. Kids are fat.
+
+Electronic Arts stands behind Tiger Woods for an online golf game.
+
+MAG gets ready to debut later this month, what does this massive game hold for us, the player? Will it reach its potential?
+
+Stupid Video Game Moment of the week: Several stories are read of various players around the world of offed themselves or did something else stupid as it relates to gaming.
+
+Meltdown: Greenpeace attacks Nintendo and Microsoft on their e-waste and enviro-friendly business practices.</description>
+<itunes:duration>01:56:24</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:10 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec010910.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec010910.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec010910.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Eps. 15 Future of the show announced!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>In this exciting episode, Emperor and Highlander reveal the future of the Emperor's Court. It rather more hysterical episode (I know, hard to do right?) then even the normal nuttiness, but our topics include:
+
+Google's hypocrisy in China
+
+Sooooo many games coming out this Spring
+
+Review of games gained over Christmas
+
+Meltdown: Vegans complain about lack of recipes in World of Warcraft
+
+Either/Or: Highlander answers the tough questions Emperor puts to him
+
+Stupidest Video Game Moment: Nintendo punished for their monopolistic ways by being forced to sell MORE games...
+
+
+</itunes:summary>
+<description>In this exciting episode, Emperor and Highlander reveal the future of the Emperor's Court. It rather more hysterical episode (I know, hard to do right?) then even the normal nuttiness, but our topics include:
+
+Google's hypocrisy in China
+
+Sooooo many games coming out this Spring
+
+Review of games gained over Christmas
+
+Meltdown: Vegans complain about lack of recipes in World of Warcraft
+
+Either/Or: Highlander answers the tough questions Emperor puts to him
+
+Stupidest Video Game Moment: Nintendo punished for their monopolistic ways by being forced to sell MORE games...
+
+
+</description>
+<itunes:duration>02:04:52</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:11 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec011510.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec011510.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec011510.mp3</guid>
+</item>
+<item>
+<title>The Emperor's Court - Eps. 16 New Equipment!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>On this episode of the Emperor's Court, the new Verse the World Productions network debuts, as we now stream to our newest affiliate!
+
+We also debut the pimp new equipment that was purchased with the donations from our most generous listeners. Now the sound quality is that of a couple of professionals even as we cast like a couple of noobs!
+
+Topics covered:
+
+13 year old girl flogged 90 times in Saudi Arabia for having a cell phone
+
+Highlander mommy gives him a new phone
+
+"This or That" segment goes over some of the finer video games of yesteryear,  Sonic vs. Mario Brothers, Street Fighter vs. Mortal Kombat, including a spirited debate of Ultima Online vs. World of Warcraft
+
+Jediism is a real religion? Really? Really.
+
+"Meltdown": Environmentalist freaks want people to be rewarded in World of Warcraft for being "green" IRL.
+
+"Stupid Video Game Moment of the Week": Final Fantasy IX's failure of a strategy guide that prevented its buyers from actually using it</itunes:summary>
+<description>On this episode of the Emperor's Court, the new Verse the World Productions network debuts, as we now stream to our newest affiliate!
+
+We also debut the pimp new equipment that was purchased with the donations from our most generous listeners. Now the sound quality is that of a couple of professionals even as we cast like a couple of noobs!
+
+Topics covered:
+
+13 year old girl flogged 90 times in Saudi Arabia for having a cell phone
+
+Highlander mommy gives him a new phone
+
+"This or That" segment goes over some of the finer video games of yesteryear,  Sonic vs. Mario Brothers, Street Fighter vs. Mortal Kombat, including a spirited debate of Ultima Online vs. World of Warcraft
+
+Jediism is a real religion? Really? Really.
+
+"Meltdown": Environmentalist freaks want people to be rewarded in World of Warcraft for being "green" IRL.
+
+"Stupid Video Game Moment of the Week": Final Fantasy IX's failure of a strategy guide that prevented its buyers from actually using it</description>
+<itunes:duration>02:21:07</itunes:duration>
+<itunes:keywords>Emperor,Court</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:13 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://emperorscourt.s3.amazonaws.com/ec012210.mp3' length='1'/>
+<link>http://emperorscourt.s3.amazonaws.com/ec012210.mp3</link>
+<guid>http://emperorscourt.s3.amazonaws.com/ec012210.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Episode 31 - End of Essence</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The final episode of Essence of RP. Thanks alot to everyone who listned to the show helped the show or got involved in anyway. Many more thanks given to all the WoW Radio staff and listners in this special 3 Hour episode of "Essence of RP"</itunes:summary>
+<description>The final episode of Essence of RP. Thanks alot to everyone who listned to the show helped the show or got involved in anyway. Many more thanks given to all the WoW Radio staff and listners in this special 3 Hour episode of "Essence of RP"</description>
+<itunes:duration>02:42:09</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:20 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-06-01-2009.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-06-01-2009.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-06-01-2009.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Series 2 - Episode 2 Episode 1 was Merely a setback!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Episode 2 of the Essence of RP, once again Episode one was lost to the interwebz but never fear! This week AlmightyFarseer and kexman come back with a LEGENDARY intro, and cover the upcoming RP oppertunities of Cataclysme, as well as a few of there own stories since they've been gone!</itunes:summary>
+<description>Episode 2 of the Essence of RP, once again Episode one was lost to the interwebz but never fear! This week AlmightyFarseer and kexman come back with a LEGENDARY intro, and cover the upcoming RP oppertunities of Cataclysme, as well as a few of there own stories since they've been gone!</description>
+<itunes:duration>01:53:17</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:21 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-11-02-2009.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-11-02-2009.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-11-02-2009.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Series 2 - Episode 3 - Listen at your own Peril</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Yes once again the Solo show comes your way, and well AF is not prepaired! And what he has got, won't last long, can he make it to the end of the show without Mega Fail! Tune-in to find out!</itunes:summary>
+<description>Yes once again the Solo show comes your way, and well AF is not prepaired! And what he has got, won't last long, can he make it to the end of the show without Mega Fail! Tune-in to find out!</description>
+<itunes:duration>01:42:45</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:23 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-11-12-2009.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-11-12-2009.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-11-12-2009.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Series 2 - Episode 4 - Shot outs & Basters</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The show expansion has begun! AlmightyFarseer and Kexman begin to talks on the different roleplays between the big and also upcoming games also covering Worgan RP and answering your emailz. As we do.</itunes:summary>
+<description>The show expansion has begun! AlmightyFarseer and Kexman begin to talks on the different roleplays between the big and also upcoming games also covering Worgan RP and answering your emailz. As we do.</description>
+<itunes:duration>01:59:11</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:24 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-11-16-2009.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-11-16-2009.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-11-16-2009.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Season 2 - 40 minites with Farseer</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>40 Minites with Farseer and Sheriff NNJ!</itunes:summary>
+<description>40 Minites with Farseer and Sheriff NNJ!</description>
+<itunes:duration>00:38:23</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:26 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-45minwithFarseer.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-45minwithFarseer.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-45minwithFarseer.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Season 2 - Episode 5 - Wakka!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Coming up! Details about an EU Realm event in December, more talk about Character interaction in World of Warcraft, and some more views into Star Wars the Old republic! All that and much more on this Episode of EoRP!</itunes:summary>
+<description>Coming up! Details about an EU Realm event in December, more talk about Character interaction in World of Warcraft, and some more views into Star Wars the Old republic! All that and much more on this Episode of EoRP!</description>
+<itunes:duration>01:52:12</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:27 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-11-30-2009.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-11-30-2009.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-11-30-2009.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Season 2 - Episode 6 - Farseer's show of Rage!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Solo show with the Almighty Farseer once more as he covers more details into Warcraft RP and Star wars the Old Republic RP. The formation of the Essence army has begun, Emperor shall fall!
+
+Apologies for the music levels on this Episode.</itunes:summary>
+<description>Solo show with the Almighty Farseer once more as he covers more details into Warcraft RP and Star wars the Old Republic RP. The formation of the Essence army has begun, Emperor shall fall!
+
+Apologies for the music levels on this Episode.</description>
+<itunes:duration>01:03:57</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:28 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-12-07-2009.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-12-07-2009.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-12-07-2009.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Season 2 - Episode 7 - The War has begun!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Come Fourth Roleplayers for we've taken enough from the others that do not understand and would mock our ways! Our first target is Emperor, why? Because he is closest!
+
+Aion Town building, mounts and Player housing and new Star wars gossip also discussed in this weeks show.</itunes:summary>
+<description>Come Fourth Roleplayers for we've taken enough from the others that do not understand and would mock our ways! Our first target is Emperor, why? Because he is closest!
+
+Aion Town building, mounts and Player housing and new Star wars gossip also discussed in this weeks show.</description>
+<itunes:duration>01:46:08</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:31 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-12-14-2009.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-12-14-2009.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-12-14-2009.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Season 2 - Episode 8 - Episode 8 -The Essence Award Ceremony</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>AlmightyFarseer and Kexman give out the awards for several different styles of achievements that we view in our eyes to be worthy of...an award. The cheque's in the mail.</itunes:summary>
+<description>AlmightyFarseer and Kexman give out the awards for several different styles of achievements that we view in our eyes to be worthy of...an award. The cheque's in the mail.</description>
+<itunes:duration>01:56:01</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:32 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-01-05-2010.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-01-05-2010.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-01-05-2010.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Season 2 - Episode 9 - Trade your Swords for Lightsabers</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Lets do the time warp! And head to the future where we focus our newly developed Ion Cannon on Star trek online and the future of Star wars the old republic.</itunes:summary>
+<description>Lets do the time warp! And head to the future where we focus our newly developed Ion Cannon on Star trek online and the future of Star wars the old republic.</description>
+<itunes:duration>01:51:09</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:34 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-01-11-2010.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-01-11-2010.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-01-11-2010.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Season 2 - Episode 10 - It's World Domination time!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This week the show comes with a special twist, a lack of a Kexman due to homewo-..I mean being called away to fight an alien force on another planet, has forced AF to bring along his creation to help to the show today.
+
+Subjects today include the state of RP in WoW and the future, delving inwards to more Star wars subjects and we also cover the latest in the Star trek Open Beta.
+
+This show includes: Igor's, Ion Cannons, Death Star things and Explosions.</itunes:summary>
+<description>This week the show comes with a special twist, a lack of a Kexman due to homewo-..I mean being called away to fight an alien force on another planet, has forced AF to bring along his creation to help to the show today.
+
+Subjects today include the state of RP in WoW and the future, delving inwards to more Star wars subjects and we also cover the latest in the Star trek Open Beta.
+
+This show includes: Igor's, Ion Cannons, Death Star things and Explosions.</description>
+<itunes:duration>01:51:23</itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 02:37 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-01-18-2010.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-01-18-2010.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-01-18-2010.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Left 4 Donuts</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The Donut Boys kick off their return to the airwaves with the new Donut Shop.  Zombie Apocalypse Sequel, Teenage Mutant Nickelodeon Turtles, Overweight Royalty, vagina dentata and more provide a tasty filling to this show.  Check out the new donutboys.net, e-mail at our new address donutshop@donutboys.net, and call at our new number 541-DONUTS-3.  Sorry about the weird choppy sound in this episode; we were unaware of the issue until after the show had ended.  It'll be fixed next week.
+
+Show links: http://www.youtube.com/watch?v=DDD0ZocPytY - Cory Matthews song; http://www.comicbookmovie.com/fansites/LetsCutTheBS/news/?a=11162 - Nick buys TMNT</itunes:summary>
+<description>The Donut Boys kick off their return to the airwaves with the new Donut Shop.  Zombie Apocalypse Sequel, Teenage Mutant Nickelodeon Turtles, Overweight Royalty, vagina dentata and more provide a tasty filling to this show.  Check out the new donutboys.net, e-mail at our new address donutshop@donutboys.net, and call at our new number 541-DONUTS-3.  Sorry about the weird choppy sound in this episode; we were unaware of the issue until after the show had ended.  It'll be fixed next week.
+
+Show links: http://www.youtube.com/watch?v=DDD0ZocPytY - Cory Matthews song; http://www.comicbookmovie.com/fansites/LetsCutTheBS/news/?a=11162 - Nick buys TMNT</description>
+<itunes:duration>02:00:01</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Left4Dead,Left,4,Dead,Zombie,Ninja,Turtles,Contest,Video,Games,Videogames,Unwatchable,Movie,Challenge,Teeth</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 03:23 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-10-28.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-10-28.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-10-28.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Three Donuts, Seven Windows</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The Donuts are back with a show based mostly around Windows 7.  Show links:  http://www.l4dmods.com/index.php?option=com_joomloads&view=package&Itemid=2&packageId=904 - Dead Before Dawn Public Beta Download, http://www.joystiq.com/2009/10/28/disney-epic-mickey-screens-and-art-are-suitably-epic/ - Epic Mickey Art Gallery</itunes:summary>
+<description>The Donuts are back with a show based mostly around Windows 7.  Show links:  http://www.l4dmods.com/index.php?option=com_joomloads&view=package&Itemid=2&packageId=904 - Dead Before Dawn Public Beta Download, http://www.joystiq.com/2009/10/28/disney-epic-mickey-screens-and-art-are-suitably-epic/ - Epic Mickey Art Gallery</description>
+<itunes:duration>02:03:11</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Contest,Video,Games,Videogames,Windows,7,Dead,Before,Dawn,Epic,Batman,Borderlands,Seven,Se7en</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 03:57 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-04.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-04.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-04.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - The Internet is for Donuts</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Show notes: http://www.donutboys.net/forums/index.php?topic=133.0</itunes:summary>
+<description>Show notes: http://www.donutboys.net/forums/index.php?topic=133.0</description>
+<itunes:duration>02:02:13</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Contest,Video,Games,Videogames,Internet,Meme,Lolcatz,lolgibson,Gibson,Mel,lol,Dollhouse,Supernatural,Google,Wave</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 04:36 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-11.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-11.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-11.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Donut vs. Google vs. Microsoft vs. Apple</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>http://www.donutboys.net/forums/index.php?topic=134.0</itunes:summary>
+<description>http://www.donutboys.net/forums/index.php?topic=134.0</description>
+<itunes:duration>02:07:55</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Left4Dead,Left,4,Dead,Zombie,Star,Wars,R2,R2D2,Google,Microsoft,Apple,Mac,Macintosh,Contest,Video,Games,Videogames,Moon,PS3,Facebook,Wikipedia</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:12 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-18.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-18.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-18.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Old Games and Donutboys.net</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Donutboys.net is here!  Show links: http://www.donutboys.net/forums/index.php?topic=20.0</itunes:summary>
+<description>Donutboys.net is here!  Show links: http://www.donutboys.net/forums/index.php?topic=20.0</description>
+<itunes:duration>02:04:26</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Contest,Video,Games,Videogames,Retro,Mario,Donkey,Kong,N64,Nintendo,64,Natural,Selection,Bohemian,Rhapsody,Queen,Muppets,Old,Computer</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:36 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-25.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-25.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-11-25.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Where in the World is Erik?  San Diego?</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>No, but he will be in Los Angeles tomorrow!  Dustin showed up late, but Kyle brought in his roommates, Arazi and TJ, to fill the void.  Oh, and he stopped using the name "Mickey C."  It's Kyle now.  Show notes: http://www.donutboys.net/forums/index.php?topic=42.0</itunes:summary>
+<description>No, but he will be in Los Angeles tomorrow!  Dustin showed up late, but Kyle brought in his roommates, Arazi and TJ, to fill the void.  Oh, and he stopped using the name "Mickey C."  It's Kyle now.  Show notes: http://www.donutboys.net/forums/index.php?topic=42.0</description>
+<itunes:duration>02:00:54</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Kyle,Mickey,Erik,Dustin,theerik,Contest,Video,Games,Videogames,Gratuitous,Space,Battles,Legends,Zork,Blu-Ray,DVD,Tourism,Los,Angeles,Flash,Gordon</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:37 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-02.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-02.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-02.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Dustin in Jail, Donuts Still Yummy</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Kyle screwed up, so part of this archive went missing.  You'll start hearing the show shortly before The Donut Hole is concluded.  Show Notes: http://www.donutboys.net/forums/index.php?topic=58</itunes:summary>
+<description>Kyle screwed up, so part of this archive went missing.  You'll start hearing the show shortly before The Donut Hole is concluded.  Show Notes: http://www.donutboys.net/forums/index.php?topic=58</description>
+<itunes:duration>01:35:45</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Left4Dead,Left,4,Dead,Zombie,Ninja,Turtles,Contest,Video,Games,Videogames,Incarceration,Jail,Prison,Flash,Gordon,Anonymous,Internet,Canada,Law,Abiding,Citizens,Gerard,Butler,Jamie,Foxx</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:38 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-09.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-09.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-09.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Jelly Filled with Sprinkles</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Among a slew of other fascinating subjects, a very special celebrity edition of Mind Over Batter, with guests Pride of But Wait! There's Lore! and AlmightyFarseer of Essence of RP.  Show notes: http://www.donutboys.net/forums/index.php?topic=70.0</itunes:summary>
+<description>Among a slew of other fascinating subjects, a very special celebrity edition of Mind Over Batter, with guests Pride of But Wait! There's Lore! and AlmightyFarseer of Essence of RP.  Show notes: http://www.donutboys.net/forums/index.php?topic=70.0</description>
+<itunes:duration>02:01:46</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Zombie,Ninja,Turtles,Contest,Video,Games,Videogames,Unwatchable,Movie,Challenge,Cartoons,Looney,Tunes,Mouse,Lore,RP,Role,Playing,Rise,Argonauts,Teen,Ape,Goes,Camp,NetFlix,Porn</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:40 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-16.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-16.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-16.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - A Very Donut Non-Denominational-Holiday</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Show notes: http://www.donutboys.net/forums/index.php?topic=94.0</itunes:summary>
+<description>Show notes: http://www.donutboys.net/forums/index.php?topic=94.0</description>
+<itunes:duration>02:03:10</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Left4Dead,Left,4,Dead,Zombie,Ninja,Turtles,Contest,Video,Games,Videogames,Christmas,Kwanzaa,New Year,Hannukah,Holiday,Heroes,Newerth,HoN,Sherlock,Holmes,Chalice,Murloc</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:40 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-23.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-23.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2009-12-23.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - The New Decade of Donuts</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Show notes: http://www.donutboys.net/forums/index.php?topic=120.msg330#new</itunes:summary>
+<description>Show notes: http://www.donutboys.net/forums/index.php?topic=120.msg330#new</description>
+<itunes:duration>02:03:36</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Left4Dead,Left,4,Dead,Zombie,Ninja,Turtles,Contest,Video,Games,Videogames,New,Year,OMFG,Original,Media,Gamers,Avatar,Oscars,Left,4,Dead,8-bit,Nintendo</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:42 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-06.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-06.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-06.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Hot or Not (dot) Donut</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Show notes: http://www.donutboys.net/forums/index.php?topic=125.msg354#msg354</itunes:summary>
+<description>Show notes: http://www.donutboys.net/forums/index.php?topic=125.msg354#msg354</description>
+<itunes:duration>02:01:30</itunes:duration>
+<itunes:keywords>Donut, Boys, Chalice, Silvermoon, Mickey, Erik, Dustin ,theerik, Left4Dead, Left, 4, Dead, Zombie, Ninja,Turtles, Contest, Video, Games, Videogames, Online, Dating, eharmony, hotornot, hot, not, asian, midget, polio</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:43 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-13.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-13.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-13.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Moldy and Gross Looking, But Still a Hint of Flavor</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>It was a bad day for Donuts, it seems.  Erik and Dustin had last minute extenuating circumstances keep them away from the Shop, WoW Radio's site went down, and Kyle got lost in the chaos and forgot to archive the first half of the show.  Here's what's left of this week's Donut Shop with Kyle and Arazi.  And, to be fair, the crumbs your getting still taste pretty good.  Show notes: http://www.donutboys.net/forums/index.php?topic=129.0</itunes:summary>
+<description>It was a bad day for Donuts, it seems.  Erik and Dustin had last minute extenuating circumstances keep them away from the Shop, WoW Radio's site went down, and Kyle got lost in the chaos and forgot to archive the first half of the show.  Here's what's left of this week's Donut Shop with Kyle and Arazi.  And, to be fair, the crumbs your getting still taste pretty good.  Show notes: http://www.donutboys.net/forums/index.php?topic=129.0</description>
+<itunes:duration>00:49:25</itunes:duration>
+<itunes:keywords>Donut,Boys,Chalice,Silvermoon,Mickey,Erik,Dustin,theerik,Left4Dead,Left,4,Dead,Zombie,Ninja,Turtles,Contest,Video,Games,Videogames,Prequel,Sequel,Spider-Man,Lethal,Weapon,Lost,Vikings,Harry,Potter,Backwards,Forwards,Improv,Theatre,Theater</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 05:44 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-20.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-20.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-20.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Who you gonna call?</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This is the famous and all power Kexbusters sung by our very own Kexman. Enjoy and remember, who you gonna call?</itunes:summary>
+<description>This is the famous and all power Kexbusters sung by our very own Kexman. Enjoy and remember, who you gonna call?</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer,song</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 10:31 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/Kexbusters%20-%20Essence%20of%20RP.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/Kexbusters%20-%20Essence%20of%20RP.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/Kexbusters%20-%20Essence%20of%20RP.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - Failseer Sings?!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The Almighty Farseer got the idea from Lady Gaga... God help us all. Enjoy the Failseer's take on his show and the world around him.</itunes:summary>
+<description>The Almighty Farseer got the idea from Lady Gaga... God help us all. Enjoy the Failseer's take on his show and the world around him.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Essence,RP,Kexman,Almighty,Farseer,song</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 10:36 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/FailSeerWays.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/FailSeerWays.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/FailSeerWays.mp3</guid>
+</item>
+<item>
+<title>Essence of Role Play - The Wcradio Finale : So Many Questions</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>AF and Kex close out their last show on Wcradio with an Ask Us Anything Show. They are flooded with e-mails from all kinds of listeners. And Kexman pasts the title of "Sexman" unto another person. Beware the Ion Cannon Leto.</itunes:summary>
+<description>AF and Kex close out their last show on Wcradio with an Ask Us Anything Show. They are flooded with e-mails from all kinds of listeners. And Kexman pasts the title of "Sexman" unto another person. Beware the Ion Cannon Leto.</description>
+<itunes:duration>01:58:54</itunes:duration>
+<itunes:keywords>Essence, RP, Kexman, Almighty,Farseer,WoW,Radio</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 26, 2010 01:13 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://eorp.s3.amazonaws.com/wow-eorp-01-25-2010.mp3' length='1'/>
+<link>http://eorp.s3.amazonaws.com/wow-eorp-01-25-2010.mp3</link>
+<guid>http://eorp.s3.amazonaws.com/wow-eorp-01-25-2010.mp3</guid>
+</item>
+<item>
+<title>Fragged Up - Season 1 - Episode 1  -  Why can't we be friends?</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Pride's New Show Debuts! Pride discusses the importance of teamwork in modern games like Team Fortress 2, Heroes of Newerth, World of Warcraft, and Sony's new shooter, MAG</itunes:summary>
+<description>Pride's New Show Debuts! Pride discusses the importance of teamwork in modern games like Team Fortress 2, Heroes of Newerth, World of Warcraft, and Sony's new shooter, MAG</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Fragged,Warcraft,MAG,Shooter,Teamwork</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 11:56 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://fraggedup.s3.amazonaws.com/wow-ss-pride-122109.mp3' length='1'/>
+<link>http://fraggedup.s3.amazonaws.com/wow-ss-pride-122109.mp3</link>
+<guid>http://fraggedup.s3.amazonaws.com/wow-ss-pride-122109.mp3</guid>
+</item>
+<item>
+<title>Fragged Up - Season 1 - Episode 2 - Naughty Naughty</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This week's rants include but are not limited to : Nintendo Wii Fails?, Boycotting Developers, WoW's new Looking for Dungeon tool, and Faction Loyalty in World of Warcraft.</itunes:summary>
+<description>This week's rants include but are not limited to : Nintendo Wii Fails?, Boycotting Developers, WoW's new Looking for Dungeon tool, and Faction Loyalty in World of Warcraft.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Fragged,Warcraft,Wii,Nintendo</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 11:59 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://fraggedup.s3.amazonaws.com/wow-ss-122809.mp3' length='1'/>
+<link>http://fraggedup.s3.amazonaws.com/wow-ss-122809.mp3</link>
+<guid>http://fraggedup.s3.amazonaws.com/wow-ss-122809.mp3</guid>
+</item>
+<item>
+<title>Fragged Up - Season 1 - Episode 3 - Geeks can date? Really?!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This is the preview or just a taste of what is to come with this awesome show. New features debuted and Pride's co-host, Treble appears
+
+Episode includes the following :
+
+[Top Ten]Reasons geeks make the best dates
+[Feature]Omegle Anon Chat Service
+[Feature]Golden Globe Awards
+[Rant]Geek 2 Geek Online Dating Service
+[Rant]Martin Luther King Day
+[Rant]Pancakes Have Souls
+[Lol News]Surgeon doesn't know what a kidney is
+[Lol News]"Rocking Out" to John Denver</itunes:summary>
+<description>This is the preview or just a taste of what is to come with this awesome show. New features debuted and Pride's co-host, Treble appears
+
+Episode includes the following :
+
+[Top Ten]Reasons geeks make the best dates
+[Feature]Omegle Anon Chat Service
+[Feature]Golden Globe Awards
+[Rant]Geek 2 Geek Online Dating Service
+[Rant]Martin Luther King Day
+[Rant]Pancakes Have Souls
+[Lol News]Surgeon doesn't know what a kidney is
+[Lol News]"Rocking Out" to John Denver</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Fragged,Treble, geeks,dating,pancakes,MLK,GoldenGlobes</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:11 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://fraggedup.s3.amazonaws.com/FraggedUpPreview.mp3' length='1'/>
+<link>http://fraggedup.s3.amazonaws.com/FraggedUpPreview.mp3</link>
+<guid>http://fraggedup.s3.amazonaws.com/FraggedUpPreview.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 12  -  Oh....kae</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Kae joins Pride, Snapplemonkey, Shinoda and Leto for this exciting episode of BWTL with updates some the Council of Six as well as the lore behind Taurens and Gnomes.</itunes:summary>
+<description>Kae joins Pride, Snapplemonkey, Shinoda and Leto for this exciting episode of BWTL with updates some the Council of Six as well as the lore behind Taurens and Gnomes.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Kae,Leto,Pride,Snapplemonkey,Shinoda,Lore,Councilofsix,Tauren,Gnome,WoW</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:19 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-012310.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-012310.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-012310.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 11  -  Lore going L33T!!!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Its Snapplemonkey's Birthday, Leto comes by to visit and loads and loads of Paladin Rage!!!!! And the Return of Stixus is announced...the monster awakens.</itunes:summary>
+<description>Its Snapplemonkey's Birthday, Leto comes by to visit and loads and loads of Paladin Rage!!!!! And the Return of Stixus is announced...the monster awakens.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Leto,Snapplemonkey,Shinoda,Stixus,Paladin,birthday,lore,WoW </itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:32 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-011610.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-011610.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-011610.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 9 - Shinoda, Snapple and Pride, oh my!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Some interesting news about the Hosts of BTWL. Also a recap of some of the races of WoW and future topics!</itunes:summary>
+<description>Some interesting news about the Hosts of BTWL. Also a recap of some of the races of WoW and future topics!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,Shinoda,lore,WoW</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:35 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-010210.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-010210.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-010210.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 8 - Council of Tirisfal</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Pride & Snapplemonkey tell you everything you could possibly want to know about The Council of Tirisfal. From its formations, to its fall form grace, to its return to the spotlight. Enjoy this special 1 hour episode of greatness!</itunes:summary>
+<description>Pride & Snapplemonkey tell you everything you could possibly want to know about The Council of Tirisfal. From its formations, to its fall form grace, to its return to the spotlight. Enjoy this special 1 hour episode of greatness!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW.counciloftirisfal</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:45 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-121209.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-121209.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-121209.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 7 - Leadership is Key</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This week, Pride and Snapplemonkey take on the task of teachings all about the two factions leaders in WoW. King Varian Wrynn of the Alliance and Warchief Thrall of the Horde!</itunes:summary>
+<description>This week, Pride and Snapplemonkey take on the task of teachings all about the two factions leaders in WoW. King Varian Wrynn of the Alliance and Warchief Thrall of the Horde!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Thrall,Wrynn,Alliance,Horde</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:55 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-120509.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-120509.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-120509.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 6 - Now Boardcasting in HD.......Audio</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>For the first time ever, well here at least, pod-casting comes to you in High Definition! On this week's show, Pride and Snapple get into the oldest argument in the history of WoW, Lore vs. Game Mechanics!</itunes:summary>
+<description>For the first time ever, well here at least, pod-casting comes to you in High Definition! On this week's show, Pride and Snapple get into the oldest argument in the history of WoW, Lore vs. Game Mechanics!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:00 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-112809.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-112809.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-112809.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 5 - The End is Nigh</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Its Pride's Birthday today! Yeah!!!! Also, Pride and Snapple discuss Eternity's End, the Warcraft III Night Elf Campaign.</itunes:summary>
+<description>Its Pride's Birthday today! Yeah!!!! Also, Pride and Snapple discuss Eternity's End, the Warcraft III Night Elf Campaign.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,Nightelf,birthday</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:07 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-112109.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-112109.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-112109.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 4 - Real Elves don't look at Explosions</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>This week, our resident lore buffs, Pride and Snapple, tell us the tale of the Orcs in Warcraft III : Reign of Chaos.</itunes:summary>
+<description>This week, our resident lore buffs, Pride and Snapple, tell us the tale of the Orcs in Warcraft III : Reign of Chaos.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW.Horde,Orcs,Warcraft</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:12 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-111409.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-111409.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-111409.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 3 - Let's get Chaotic!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Pride and Snapple jump deep into Warcraft III : The Frozen Throne by exploring the Human and Undead campaigns.</itunes:summary>
+<description>Pride and Snapple jump deep into Warcraft III : The Frozen Throne by exploring the Human and Undead campaigns.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,human,undead</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:18 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-110709.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-110709.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-110709.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 2 - For the Alliance!!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Happy Hallows End, kiddies! This week Pride and Snapple tell you all the things you need to know about the First and Second War from the Alliance's point of view.</itunes:summary>
+<description>Happy Hallows End, kiddies! This week Pride and Snapple tell you all the things you need to know about the First and Second War from the Alliance's point of view.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,Alliance</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:23 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-103109.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-103109.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-103109.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 2 - For the Horde!!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>A new season has begun for But Wait, There's Lore. Pride gets a new co-host, Snapplemonkey!. They first task this season, teaching us about the First and Second War from the Horde's point of view.</itunes:summary>
+<description>A new season has begun for But Wait, There's Lore. Pride gets a new co-host, Snapplemonkey!. They first task this season, teaching us about the First and Second War from the Horde's point of view.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,Horde</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:53 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-102409.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-102409.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-102409.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - Pride sits down with a Loremaker...Knack</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Pride sits down with the author of several well known books on the Warcraft universe including the new "Stromrage", Richard A. Knack.</itunes:summary>
+<description>Pride sits down with the author of several well known books on the Warcraft universe including the new "Stromrage", Richard A. Knack.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,lore,Warcraft,wow,Knack</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 02:00 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-090509.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-090509.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-090509.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - I Am Not Yelling, That's Just How I Talk</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Virtual Goods, Box games vs. Digital copy, Collector's edition vs. Standard, Expansions - what should you pay? Micro-transactions - the good and the really bad. 1.38 Billions sold in Virtual Goods, Tetris top selling mobile game of all time, Sony's Motion Controller, Wii adult title in black cases, Kids have 8 hours of media a day, Real life P2P, Kindal has an apps store?, Sims 3 top selling game of 2009, Tekken Movie Trailer, A Majora's Mask Sequel?, PS3 sell 3 million units in UK, ESPN on Xbox Live, Emails, FF I & II on Iphone, Elder Scrolls MMO?, and No Half Life Game this year. AlmightyFarseer wins Jumping Rants and Most people have bought Virtual Goods</itunes:summary>
+<description>Virtual Goods, Box games vs. Digital copy, Collector's edition vs. Standard, Expansions - what should you pay? Micro-transactions - the good and the really bad. 1.38 Billions sold in Virtual Goods, Tetris top selling mobile game of all time, Sony's Motion Controller, Wii adult title in black cases, Kids have 8 hours of media a day, Real life P2P, Kindal has an apps store?, Sims 3 top selling game of 2009, Tekken Movie Trailer, A Majora's Mask Sequel?, PS3 sell 3 million units in UK, ESPN on Xbox Live, Emails, FF I & II on Iphone, Elder Scrolls MMO?, and No Half Life Game this year. AlmightyFarseer wins Jumping Rants and Most people have bought Virtual Goods</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games,Goods,Wii</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:19 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-01-23-10.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-01-23-10.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-01-23-10.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - See Maxspeed in 3D!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>3d gaming, Kae's word questioned over LFD2 and Killing Floor, HDTVs, Child's Play says no to a donation, Dragon Age on consoles and the new Expansion, Poll says Halo:Reach will be best selling game of 2010, Infinity Ward won't be working on Modern Warfare 3 but might be on CoD MMO, Project Natal uses 10-15 % of Xbox360 Processing power and could come out by Holidays 2010, Most of our audience think 3d Gaming will be a fad, and Annul wins Jumping Rants!</itunes:summary>
+<description>3d gaming, Kae's word questioned over LFD2 and Killing Floor, HDTVs, Child's Play says no to a donation, Dragon Age on consoles and the new Expansion, Poll says Halo:Reach will be best selling game of 2010, Infinity Ward won't be working on Modern Warfare 3 but might be on CoD MMO, Project Natal uses 10-15 % of Xbox360 Processing power and could come out by Holidays 2010, Most of our audience think 3d Gaming will be a fad, and Annul wins Jumping Rants!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games,Goods,Wii,3D</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:21 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-01-09-10.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-01-09-10.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-01-09-10.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - The year of the PS3...We mean it</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>"This is the year of the PS3" - Speedyf40</itunes:summary>
+<description>"This is the year of the PS3" - Speedyf40</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games,Goods,PS3</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:24 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-01-02-10.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-01-02-10.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-01-02-10.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - 3 years later & We are still kicking it in high gear!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Its been a long strange trip, but we made it 3 years. Thanks you guys!</itunes:summary>
+<description>Its been a long strange trip, but we made it 3 years. Thanks you guys!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:26 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-12-19-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-12-19-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-12-19-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - You Just Spoilered Santa!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Kae kicks Speedy in the Balls then gives spoilers on Santa for all the little kiddies. :(</itunes:summary>
+<description>Kae kicks Speedy in the Balls then gives spoilers on Santa for all the little kiddies. :(</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:28 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-12-12-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-12-12-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-12-12-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - Let's raise money for Tiger Woods</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The soldiers of World War I were the first people to use the modern flushing toilet. The inventor: Thomas Crapper</itunes:summary>
+<description>The soldiers of World War I were the first people to use the modern flushing toilet. The inventor: Thomas Crapper</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games,toilet</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:31 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-12-05-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-12-05-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-12-05-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - Bitches love the Wii</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>We talked about How woman love the Wii and how this is the worst Q4 in years</itunes:summary>
+<description>We talked about How woman love the Wii and how this is the worst Q4 in years</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games,Wii</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:32 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-11-28-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-11-28-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-11-28-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - Pre-Thanksgiving Game Talk</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Pre-Thanksgiving Fun</itunes:summary>
+<description>Pre-Thanksgiving Fun</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games,Thanksgiving</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:34 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-11-21-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-11-21-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-11-21-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - Sex with your ears</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Main Topic: Over Rated Games? Infinity Ward,Modern Warfare 2 and lot's of FPS talk .... and Dragon Age Origins</itunes:summary>
+<description>Main Topic: Over Rated Games? Infinity Ward,Modern Warfare 2 and lot's of FPS talk .... and Dragon Age Origins</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games,Sex</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:36 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-11-07-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-11-07-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-11-07-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - Kae is on Fire!!!!!!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Kae started talking about games and then he kept on talking....who is this Kae and where is the real one? Go Kae!</itunes:summary>
+<description>Kae started talking about games and then he kept on talking....who is this Kae and where is the real one? Go Kae!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:38 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-10-24-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-10-24-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-10-24-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - Fun as Hell</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Activision Confirms Layoffs People, We bitch about Sony, LEGOS, and news about games Dua!</itunes:summary>
+<description>Activision Confirms Layoffs People, We bitch about Sony, LEGOS, and news about games Dua!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:39 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-10-10-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-10-10-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-10-10-09.mp3</guid>
+</item>
+<item>
+<title>MaxSpeed - We talked about Video Games....Eventually</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>We talked about things that are entertaining to you and we talked about OnLive, PS3 Hits New High, and video games :P</itunes:summary>
+<description>We talked about things that are entertaining to you and we talked about OnLive, PS3 Hits New High, and video games :P</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Speedyf40,Maxmaps,Kae,Games</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 04:40 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://s3.amazonaws.com/MaxSpeed/wow-ms-10-01-09.mp3' length='1'/>
+<link>http://s3.amazonaws.com/MaxSpeed/wow-ms-10-01-09.mp3</link>
+<guid>http://s3.amazonaws.com/MaxSpeed/wow-ms-10-01-09.mp3</guid>
+</item>
+<item>
+<title>The Donut Shop - Hello, Goodbye (OMFG, WoW Radio, respectively)</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>The last Donut Shop to air on WoW Radio went without a Dustin, but things went well without him (as expected, really).  An ode to WoW Radio farewell show with a portion Chalice Episode 1 performed live by Erik and Kyle from memory.  Thanks for the memories, WoW Radio, and we hope you'll all come and see us real soon over at OMFG.fm.  Links: http://www.donutboys.net/forums/index.php?topic=135.0</itunes:summary>
+<description>The last Donut Shop to air on WoW Radio went without a Dustin, but things went well without him (as expected, really).  An ode to WoW Radio farewell show with a portion Chalice Episode 1 performed live by Erik and Kyle from memory.  Thanks for the memories, WoW Radio, and we hope you'll all come and see us real soon over at OMFG.fm.  Links: http://www.donutboys.net/forums/index.php?topic=135.0</description>
+<itunes:duration>02:03:52</itunes:duration>
+<itunes:keywords>Donut, Boys, Chalice, Silvermoon, Mickey, Erik, Dustin, theerik, Contest, Video, Games, Videogames, WoW, Radio, OMFG, Original, Media, Gamers, Bioshock, Rock, Band, Network, Gremlins, iPad, 3D</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 11:30 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-27.mp3' length='1'/>
+<link>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-27.mp3</link>
+<guid>http://thedonutshop.s3.amazonaws.com/DonutShop-2010-01-27.mp3</guid>
+</item>
+</channel>
+</rss>

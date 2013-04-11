@@ -1,0 +1,271 @@
+/*
+*  CSS for the e-sports portal on OMFG.FM
+*/
+
+/* HTML REDEF -- Starts with Eric Meyers CSS reset, slightly modified. */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strong, sub, sup, tt, var, ol, ul, li,
+fieldset, form, label, legend, caption {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+/* END RESET */
+
+body {
+	background: #22374e url(../images/omfg_esports_wrapperBg.jpg) repeat-x scroll left 90px;
+	font-family: Helvetica, Arial;
+	font-size: 12px;
+	color: #CCCCCC;
+}
+
+a {color: #f2d479; text-decoration: none;}
+
+/* UNIQUE STYLES */
+
+/* HEADER */
+#headerArea {width: 100%;}
+	#titleBar {
+		width: 100%; height: 60px;
+		background: transparent url(../images/omfg_esports_titleBarBg.jpg) repeat-x scroll left top;
+	}
+		#title {
+			margin: 0;
+			width: 185px; height: 60px;
+			float: left;
+			background: transparent url(../images/omfg_esports_titleImg.png) no-repeat scroll left 12px;
+		}
+		#userBox {
+			margin: 8px 0 0 0;
+			width: 273px; height: 45px;
+			float: right;
+		}
+			#avatar {
+				display: block; 
+				float: left;
+				width: 60px; height: 42px;
+			}
+			#welcome {display: block; margin: 3px 0 0 0;}
+			#userMessages {display: block; font-size: 11px; line-height:14px;}
+			#userInvites {display: block; font-size: 11px; line-height:14px;}
+	#linkBar {
+		width: 100%; height: 45px;
+		background: transparent url(../images/omfg_esports_linkBarBg.jpg) repeat-x scroll left top;
+	}
+		#esports {
+			margin: 8px 0 0; 
+			color: #EEEEEE; 
+			font-size: 12px;
+			font-weight: normal;
+			float: left;
+		}
+		#omfgLinks {margin: 8px 0 0; float: right;}
+			#omfgLinks a {color: #cde5f6; text-decoration: underline;}
+			#omfgLinks a:visited {color: #a3bbcc; text-decoration: none;}
+/* END HEADER */
+
+/* CENTER CONTENT */
+#wrapper {width: 100%;} /* Superfluous */
+	#mainContent_bottom {
+		background: transparent url(../images/omfg_esports_contentBox_bottom.png) no-repeat bottom;
+		padding-bottom: 8px;
+		position: relative;
+	}
+		#mainContent_top {background: transparent url(../images/omfg_esports_contentBox_top.png) no-repeat; height: 9px;}
+		#mainContent_middle {background: transparent url(../images/omfg_esports_contentBox_middle.png) repeat-y; padding: 0 5px;}
+			#primaryContent {}
+				#newsReel {
+					position: absolute;
+					left: 5px; top: 5px;
+					width: 661px; height:270px;
+					background: transparent url(../images/omfg_esports_rotatingArticle_bg.png) no-repeat scroll left top;
+					
+				}
+					.newsItem {width: 641px; height: 250px; margin: 10px 0 0 10px;}
+						.newsItemLink {
+							display: block; 
+							width: 100%; height: 100%;
+							background: transparent url(../images/omfg_esports_newsLinkBg.png) repeat-x scroll left 190px;
+						}
+							.newsItemLink h3 {
+								color: #FFF; 
+								font-size: 26px; 
+								padding: 198px 10px 3px;
+							}
+							.newsItemLink p {
+								color: #a3bbcc; 
+								font-size: 14px;
+								padding: 0 10px 0;
+							}
+							.newsItemLink .newsCTA {
+								color: #cde5f6; 
+								text-decoration: underline;
+								padding: 0 0 0 17px;
+								background: transparent url(../images/omfg_esports_bullet.jpg) no-repeat 6px 6px;
+							}
+					
+					#sc2_tourney {background: transparent url(../images/omfg_esports_news_sc2_tourney.jpg) no-repeat left top;}
+				
+				#articleIntro {margin: 0 20px 0; padding: 282px 0 0 0;}
+					#articleIntro h2 { /* Might need to consolidate o.O */
+						color: #f2d479;
+						font-size: 18px;
+						float: left;
+						margin: 0 0 6px;
+					}
+					#articleFilter {float: right;}
+						.articleType {
+							float: left; 
+							padding: 0 0 0 17px;
+							background: transparent url(../images/omfg_esports_bullet.jpg) no-repeat 7px 3px;
+						}
+						.firstType {padding: 0; background: none;}
+				#articles {
+					margin: 0 20px;
+					border-top: 1px solid #666;
+					border-bottom: 1px solid #666;
+					clear: both;
+				}
+					.article {margin: 15px 0 30px;}
+						.articleHeader {font-size: 14px; color: #fff; margin: 0 0 10px 0;}
+							.postDate {
+								font-size: 10px; 
+								font-weight: normal;
+								color: #CCCCCC;
+								padding: 0 0 0 20px;
+								background: transparent url(../images/omfg_esports_bullet.jpg) no-repeat 7px 4px;
+							}
+							.postDetails {
+								font-size: 10px;
+								font-weight: normal;
+								color: #CCCCCC;
+								padding: 0 0 0 20px;
+								background: transparent url(../images/omfg_esports_bullet.jpg) no-repeat 7px 4px;
+							}
+								.filterLikeThisContent {}
+								.filterByThisAuthor {}
+						.articleCopy {line-height: 18px;}
+				#articleNav {margin: 10px 20px; padding: 0; float: left;}
+					.articleTarget {
+						float: left;
+						padding: 0 0 0 20px;
+						background: transparent url(../images/omfg_esports_bullet.jpg) no-repeat 7px 4px;
+					}
+					.firstItem {padding: 0; background: none;} /* Reuse firstType ? */
+					.inactive {}
+			
+			/* SIDEBAR */
+			#secondaryContent {color: #dae8f2;}
+				#eventArea {margin: 15px 20px 0 25px;}
+					#events {}
+					.sidebarHeader {
+						color: #f2d479; 
+						font-size: 14px; 
+						border-bottom: 1px solid #666;
+						padding: 0 0 8px 0;
+						margin: 0 0 13px 0;
+					}
+					.sidebarList {
+						width: 235px; 
+						float: left; 
+						margin: 0 0 20px;
+						font-size: 11px;
+					}
+						.sidebarListItem {margin: 0 0 8px; float: left;}
+							.itemName {
+								display: block; 
+								clear: both; 
+								float: left; 
+								width: 170px;
+								line-height: 16px;
+							}
+							.itemDetail {display: block; float: left; padding: 0 0 0 20px; }
+				#leaderboardArea {margin: 10px 20px 0 25px;}
+					#starcraftLeaderboard {}
+					#teamFortress2Leaderboard {}
+				#sponsorArea {margin: 10px 20px 0 25px;}
+					#sponsorList {}
+						.sponsorName {
+							display: block; 
+							padding: 15px 0 0;
+							font-size: 14px;
+							color: #FFF;
+						}
+						.sponsorDetails {color: #f2d479; font-size: 12px;}
+						#pax2010 {}
+							#pax2010 .sponsorIcon {
+								background: transparent url(../images/omfg_esports_sponsor_pax.jpg) no-repeat scroll left top;
+								width: 130px; height: 70px;
+								float: left;
+							}
+							
+					#secondaryContent h4 {margin: 0 0 5px;}
+					
+					
+/* END CENTER CONTENT */
+
+/* FOOTER */
+#footerArea {width: 100%; padding-top: 25px;}
+	#footerLinkBar {
+		width: 100%; height: 30px;
+		background: transparent url(../images/omfg_esports_footerBg.jpg) repeat-x scroll left top;
+	}
+		#esportsFooter {
+			margin: 8px 0 0; 
+			color: #666; 
+			font-size: 12px;
+			font-weight: normal;
+			float: left;
+		}
+		#omfgFooterLinks {margin: 8px 0 0; float: right;}
+			#omfgFooterLinks a {color: #333; text-decoration: underline;}
+			#omfgFooterLinks a:visited {color: #666; text-decoration: none;}
+/* END FOOTER */
+
+/* GENERAL STYLES */
+.omfgLink {float: left; width: 70px; text-align: center;}
+.centeredElement {margin: 0 auto; width: 940px;}
+
+.col {clear: none; float: left;}
+.oneWide {width: 280px;} /* These will have to be redefined, as they aren't actually 'thirds' */
+.twoWide {width: 650px;} 
+
+.avatar_tidecaller {background: transparent url(../images/omfg_esports_avatar_tidecaller.jpg) no-repeat scroll left top;}
+/* UTILITY STYLES */
+.seoImg { display: block; text-indent: -900em; }
+.clearfix {clear: both; display: block; font-size: 0px; height: 0px;}

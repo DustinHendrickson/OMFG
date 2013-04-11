@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+<channel>
+<title>Fragged Up : An Original Media For Gamers Production</title>
+<link>http://www.omfg.fm</link>
+<language>en-us</language>
+<copyright>2011 Original Media for Gamers</copyright>
+<itunes:subtitle>Fragged Up</itunes:subtitle>
+<itunes:author>Pride,treble</itunes:author>
+<itunes:summary>Fragged Up</itunes:summary>
+<description>Fragged Up, Is long time friends Pride and Treble. Their long friendship and life long passion for gaming, creates a whirlwind of rage,opinion, and comedy,and bringing you the true stories of total fail.</description>
+<itunes:owner>
+<itunes:name>Pride,treble</itunes:name>
+<itunes:email>Fraggedup@omfg.fm</itunes:email>
+</itunes:owner>
+<itunes:image href='http://www.omfg.fm/images/shows/fragged-up-235x150.png'/>
+<image>
+<link>http://www.omfg.fm</link>
+<url>http://www.omfg.fm/images/shows/fragged-up-235x150.png</url>
+<title>Fragged Up : An Original Media For Gamers Production</title>
+<width>144</width>
+<height>150</height>
+</image>
+<itunes:category text='Games &amp; Hobbies'>
+<itunes:category text='Video Games'/>
+</itunes:category>
+<itunes:category text='Technology'>
+<itunes:category text='Podcasting'/>
+</itunes:category>
+<itunes:explicit>No</itunes:explicit>
+<item>
+<title>Fragged Up - Season 1 - Episode 3 - Geeks can date? Really?!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Season 1 - Episode 3 - Geeks can date? Really?!</itunes:summary>
+<description>This is the preview or just a taste of what is to come with this awesome show. New features debuted and Pride's co-host, Treble appears
+
+Episode includes the following :
+
+[Top Ten]Reasons geeks make the best dates
+[Feature]Omegle Anon Chat Service
+[Feature]Golden Globe Awards
+[Rant]Geek 2 Geek Online Dating Service
+[Rant]Martin Luther King Day
+[Rant]Pancakes Have Souls
+[Lol News]Surgeon doesn't know what a kidney is
+[Lol News]"Rocking Out" to John Denver</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Fragged,Treble, geeks,dating,pancakes,MLK,GoldenGlobes</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:11 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://fraggedup.s3.amazonaws.com/FraggedUpPreview.mp3' length='1'/>
+<link>http://fraggedup.s3.amazonaws.com/FraggedUpPreview.mp3</link>
+<guid>http://fraggedup.s3.amazonaws.com/FraggedUpPreview.mp3</guid>
+</item>
+<item>
+<title>Fragged Up - Season 1 - Episode 2 - Naughty Naughty</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Season 1 - Episode 2 - Naughty Naughty</itunes:summary>
+<description>This week's rants include but are not limited to : Nintendo Wii Fails?, Boycotting Developers, WoW's new Looking for Dungeon tool, and Faction Loyalty in World of Warcraft.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Fragged,Warcraft,Wii,Nintendo</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 11:59 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://fraggedup.s3.amazonaws.com/wow-ss-122809.mp3' length='1'/>
+<link>http://fraggedup.s3.amazonaws.com/wow-ss-122809.mp3</link>
+<guid>http://fraggedup.s3.amazonaws.com/wow-ss-122809.mp3</guid>
+</item>
+<item>
+<title>Fragged Up - Season 1 - Episode 1  -  Why can't we be friends?</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Season 1 - Episode 1  -  Why can't we be friends?</itunes:summary>
+<description>Pride's New Show Debuts! Pride discusses the importance of teamwork in modern games like Team Fortress 2, Heroes of Newerth, World of Warcraft, and Sony's new shooter, MAG</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Fragged,Warcraft,MAG,Shooter,Teamwork</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 11:56 AM</pubDate>
+<enclosure type='audio/mpeg' url='http://fraggedup.s3.amazonaws.com/wow-ss-pride-122109.mp3' length='1'/>
+<link>http://fraggedup.s3.amazonaws.com/wow-ss-pride-122109.mp3</link>
+<guid>http://fraggedup.s3.amazonaws.com/wow-ss-pride-122109.mp3</guid>
+</item>
+</channel>
+</rss>

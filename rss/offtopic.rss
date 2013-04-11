@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+<channel>
+<title>Off-Topic : An Original Media For Gamers Production</title>
+<link>http://www.omfg.fm</link>
+<language>en-us</language>
+<copyright>2011 Original Media for Gamers</copyright>
+<itunes:subtitle>Off-Topic</itunes:subtitle>
+<itunes:author>Athalus and Synapse</itunes:author>
+<itunes:summary>Off-Topic</itunes:summary>
+<description>Off-Topic is a one-hour variety show that focuses on pop-culture through the eyes of a gamer. Hosted by Athalus, founder of WoW Radio, and Synapse, formerly a DJ in Japan, Off-Topic pulls from rotating segments on conventions, celebrities, subculture, drinking games, celebs and more. From week-to-week, listeners may discover a new favorite web series, play a drinking game, or call in with their own questions or contributions.</description>
+<itunes:owner>
+<itunes:name>Athalus and Synapse</itunes:name>
+<itunes:email>offtopic@OMFG.fm</itunes:email>
+</itunes:owner>
+<itunes:image href='http://www.omfg.fm/images/shows/offtopic-235x150.png'/>
+<image>
+<link>http://www.omfg.fm</link>
+<url>http://www.omfg.fm/images/shows/offtopic-235x150.png</url>
+<title>Off-Topic : An Original Media For Gamers Production</title>
+<width>144</width>
+<height>150</height>
+</image>
+<itunes:category text='Games &amp; Hobbies'>
+<itunes:category text='Video Games'/>
+</itunes:category>
+<itunes:category text='Technology'>
+<itunes:category text='Podcasting'/>
+</itunes:category>
+<itunes:explicit>No</itunes:explicit>
+</channel>
+</rss>

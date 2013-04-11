@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+   <file>../flash/madrid.xml</file>
+   <repeat>true</repeat>
+   <shownavigation>true</shownavigation>
+</config>

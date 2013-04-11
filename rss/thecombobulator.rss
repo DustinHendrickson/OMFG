@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+<channel>
+<title>The Combobulator : An Original Media For Gamers Production</title>
+<link>http://www.omfg.fm</link>
+<language>en-us</language>
+<copyright>2011 Original Media for Gamers</copyright>
+<itunes:subtitle>The Combobulator</itunes:subtitle>
+<itunes:author>Emeny and Burnsy</itunes:author>
+<itunes:summary>The Combobulator</itunes:summary>
+<description></description>
+<itunes:owner>
+<itunes:name>Emeny and Burnsy</itunes:name>
+<itunes:email></itunes:email>
+</itunes:owner>
+<itunes:image href='http://www.omfg.fm/images/shows/'/>
+<image>
+<link>http://www.omfg.fm</link>
+<url>http://www.omfg.fm/images/shows/</url>
+<title>The Combobulator : An Original Media For Gamers Production</title>
+<width>144</width>
+<height>150</height>
+</image>
+<itunes:category text='Games &amp; Hobbies'>
+<itunes:category text='Video Games'/>
+</itunes:category>
+<itunes:category text='Technology'>
+<itunes:category text='Podcasting'/>
+</itunes:category>
+<itunes:explicit>No</itunes:explicit>
+</channel>
+</rss>

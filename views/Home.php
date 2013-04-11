@@ -1,0 +1,1 @@
+<?php mod_News(); ?>

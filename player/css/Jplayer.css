@@ -1,0 +1,351 @@
+/*
+ * -----------------------------------------------
+ * www.happyworm.com
+ * silvia benvenuti
+ * 
+ * jPlayer.css
+ * -----------------------------------------------
+ */
+
+body {
+	background-color: #fff;
+	color: #666;
+	width: 978px;
+	font: 1em/1.6 Verdana, Arial, sans-serif;
+	margin:0 auto;
+}
+
+#container {
+	padding: 20px 0;
+	width: 100%;
+	overflow: hidden;
+}
+
+#branding {
+	width: 280px;
+	margin-left: 20px;
+}
+
+h1 {
+	color:#a0a600;
+	font-weight:normal;
+	text-indent:28px;
+	font-size:13.5px;
+	margin-top:0;
+}
+
+h2 {
+	color:#a0a600;
+}
+
+h2 a{
+	text-decoration:none;
+	border-bottom: 1px solid #009be3;
+}
+
+h3 {
+	margin: 0;
+	padding: 0;
+}
+
+h4 {
+	margin-top: 2.5em;
+	margin-bottom:-.5em;
+}
+
+a img {
+	border: none;
+	outline:none;	
+}
+
+#menu {
+	text-align: left;
+	font-size: 0.8em;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 400px;
+	margin-left:300px;
+	margin-top:-57px;
+	margin-right:278px;
+	overflow: hidden;
+}
+
+#menu li {
+	float: left;
+	margin: 0;
+}
+
+#menu li a{
+	display: block;
+	width: 95px;
+	height: 57px;
+}
+
+#menu li a span{
+	display: block;
+	text-indent:-999px;
+}
+
+
+#home a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) 0 -57px no-repeat;
+}
+
+#home a:hover{
+	background: url(../graphics/jplayer_menu_sprites.jpg) 0 0 no-repeat;
+}
+
+body.jplayer #home a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) 0 -114px no-repeat;
+}
+
+#demos a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -95px -57px no-repeat;
+}
+
+#demos a:hover{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -95px 0 no-repeat;
+}
+
+body.demos #demos a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -95px -114px no-repeat;
+}
+
+#download a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -190px -57px no-repeat;
+}
+
+#download a:hover{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -190px 0 no-repeat;
+}
+
+body.download #download a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -190px -114px no-repeat;
+}
+
+#about a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -285px -57px no-repeat;
+}
+
+#about a:hover{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -285px 0 no-repeat;
+}
+
+body.about #about a{
+	background: url(../graphics/jplayer_menu_sprites.jpg) -285px -114px no-repeat;
+}
+
+#breadcrumbs {
+	list-style-type:none;
+	margin: 0 ;
+	padding: 0;
+	width: 100%;
+	overflow: hidden;
+	font-size:.9em;
+}
+
+#breadcrumbs li{
+	float: left;
+	color: #666;
+	padding-right: .5em;
+}
+
+#menu_download {
+	float: right;
+	width: 206px;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	list-style-type:none;
+}
+
+#menu_download li{
+	float: left;
+}
+
+#menu_download a{
+	display: block;
+	width: 206px;
+	height: 94px;
+}
+
+#menu_download #plugin a{
+	background: url(../graphics/jplayer_download_sprites.jpg) 0 0 no-repeat;
+}
+
+#menu_download #plugin a:hover{
+	background: url(../graphics/jplayer_download_sprites.jpg) 0 -94px no-repeat;
+}
+
+#menu_download a span{
+	display: block;
+	text-indent:-999px;
+}
+
+#content_main {
+	width: 70%;
+	float: left;
+	font-size: 0.8em;
+}
+
+
+#content_main img{
+	float: right;
+	margin: 0 0 20px 20px;
+}
+
+.float_right {
+	clear: both;
+	float: right;
+}
+
+#footer {
+	width: 70%;
+	font-size: 0.6em;
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+#footer p{
+	width: 540px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+
+#twitter {
+	display: block;
+	width: 100px;
+	text-decoration:none;
+	padding: 10px;
+	overflow:hidden;
+	text-align:right;
+}
+
+#twitter img {
+	float: left;
+}
+
+#twitter:hover {
+	background-color:#eee;
+}
+
+
+.section {
+	border-bottom:1px dotted #009be3;
+	padding:1em 0 ;
+	margin-left:20px;
+	width:100%;
+	overflow: hidden;
+}
+
+
+a {
+	color:#009be3;
+}
+
+a:link {
+	color:#009be3;
+}
+
+a:visited {
+	color:#009be3;
+}
+
+a:hover {
+	color:#009be3;
+}
+
+#content_sub {
+	width: 30%;
+	margin-left:70%;
+	margin-top: 3.2em;
+	font-size:.7em;
+/*	background-color:#f2f9fc;*/
+}
+
+#content_sub h2 {
+	font-size:1.1em;
+	color: #666;
+	margin-top: 0;
+}
+
+#content_sub .section{
+	padding: 0 0 20px 30px;
+	border: none;
+}
+
+#content_sub ul{
+	margin: 0;
+	padding: 0;
+	list-style-type:none;	
+}
+
+.date {
+	margin: 0;
+	padding: 0;
+	font-style:oblique;
+}
+
+dt {
+	font-weight: bold;
+	color:#a0a600;
+}
+
+dd {
+	margin: 0 0 .5em 0;
+}
+
+dl dl {
+	margin-left: 20px;
+}
+
+dl dl dt{
+	color: #666;
+}
+
+
+dl dl dl dt{
+	font-style: oblique;
+	margin-top: .5em;
+	margin-bottom: -.5em;
+}
+
+code {
+	font-size:1.3em;
+	color: #999;
+}
+
+
+.explanation {
+	font-size:.8em;
+	font-style: oblique;
+	color: #999;
+}
+
+
+.explanation code {
+	font-size:1.4em;
+	color: #666;
+}
+
+
+
+pre {
+	padding: .5em;
+	border:  1px solid #ccc;
+	background-color:#eee;
+	overflow: auto;
+}
+
+
+
+
+
+

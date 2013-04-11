@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+	Body {
+		/*background-color: #333333;*/
+		margin: 0px;
+		font-size: 14px;
+		color: #f2f2f2;
+		font-family: Arial, Helvetica, sans-serif;
+		background-image:url('../images/bg.png');
+		background-repeat: repeat-x;
+		background-position:top center;
+		background-attachment: fixed;
+	}
+	
+	.MainTop {
+		height: 9px;
+		width: 921px;
+		background-image:url('../images/trans_bgTop.png');
+		background-repeat: repeat-x;
+		float: left;
+		margin: 0px;
+	}
+	.MainCornerTL {
+		height: 9px;
+		width: 9px;
+		float: left;
+		background-image:url('../images/trans_imTopLeft.png');
+	}
+	.MainCornerTR {
+		height: 9px;
+		width: 9px;
+		float: left;
+		background-image:url('../images/trans_imTopRight.png');
+	}
+	.MainCornerBR {
+		height: 9px;
+		width: 9px;
+		float: left;
+		background-image:url('../images/trans_imBottomRight.png');
+	}
+	.MainCornerBL {
+		clear: both;
+		height: 9px;
+		width: 9px;
+		float: left;
+		background-image:url('../images/trans_imBottomLeft.png');
+	}
+	
+	#MainMidWrap {
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		width: 940px;
+  		height:500px;
+
+	}
+	.MainLeft {
+		clear: both;
+		width: 9px;
+		background-image: url('../images/trans_bgLeft.png');
+		background-repeat: repeat-y;
+		height: inherit;
+		float: left;
+	}
+	.MainCenter {
+		width: 921px;
+		background:#000;
+		height: inherit;
+		float: left;
+	}
+	.MainRight {
+		width: 9px;
+		background-image:url('../images/trans_bgRight.png');
+		background-repeat: repeat-y;
+		height: inherit;
+		float: left;
+	}
+	.MainBottom {
+		width: 921px;
+		height: 9px;
+		background-image: url('../images/trans_bgBottom.png');
+		background-repeat: repeat-x;
+		float: left;
+	}
+	
+	.TopBar1 {
+		height: 60px;
+		background-image: url('../images/TopBar1_bg.png');
+		background-repeat: repeat-x;
+	}
+	
+	.TopBar2 {
+		height: 30px;
+		background-image: url('../images/TopBar2_bg.png');
+		background-repeat: repeat-x;
+	}
+	
+	.BottomBar {
+		clear: both;
+		height: 30px;
+		background-image: url('../images/BottomBar_bg.png');
+		background-repeat: repeat-x;
+	}
+	
+	.ContentTL {
+		clear:both;
+		float: left;
+		width: 655px;
+		height: 265px;
+		background-image: url('../images/center_tlbg.png');
+		background-repeat: repeat-y;
+	}
+	
+	.ContentBL {
+		float: left;
+		width: 655px;
+		height: 235px;
+		background-image: url('../images/center_blbg.png');
+		background-repeat: repeat-y;
+	}
+	
+	#ContentL {
+		float: left;
+		width: 655px;
+		height: auto;
+
+	}
+	
+	.ContentR {
+		float: left;
+		width: 266px;
+		height: 500px;
+		background-image: url('../images/center_rbg.png');
+		background-repeat: repeat-y;
+	}
+		

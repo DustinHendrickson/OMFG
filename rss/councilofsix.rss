@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+<channel>
+<title>The Council of Six : An Original Media For Gamers Production</title>
+<link>http://www.omfg.fm</link>
+<language>en-us</language>
+<copyright>2011 Original Media for Gamers</copyright>
+<itunes:subtitle>The Council of Six</itunes:subtitle>
+<itunes:author>Leto, Strixus, Shinoda, Snapplemonkey, Kae, and MYSTERY HOST!</itunes:author>
+<itunes:summary>The Council of Six</itunes:summary>
+<description>With four years of work behind it, Council of Six is the ultimate lore broadcast for all Blizzard games. From Strixus' discussions on anthropology to Leto's opinions, and all in a well-produced package, Council of Six has something any lore enthusiast will enjoy.</description>
+<itunes:owner>
+<itunes:name>Leto, Strixus, Shinoda, Snapplemonkey, Kae, and MYSTERY HOST!</itunes:name>
+<itunes:email>Council@OMFG.fm</itunes:email>
+</itunes:owner>
+<itunes:image href='http://www.omfg.fm/images/shows/'/>
+<image>
+<link>http://www.omfg.fm</link>
+<url>http://www.omfg.fm/images/shows/</url>
+<title>The Council of Six : An Original Media For Gamers Production</title>
+<width>144</width>
+<height>150</height>
+</image>
+<itunes:category text='Games &amp; Hobbies'>
+<itunes:category text='Video Games'/>
+</itunes:category>
+<itunes:category text='Technology'>
+<itunes:category text='Podcasting'/>
+</itunes:category>
+<itunes:explicit>No</itunes:explicit>
+<item>
+<title>The Council of Six - Pride sits down with a Loremaker...Knack</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Pride sits down with a Loremaker...Knack</itunes:summary>
+<description>Pride sits down with the author of several well known books on the Warcraft universe including the new "Stromrage", Richard A. Knack.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,lore,Warcraft,wow,Knack</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 02:00 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-090509.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-090509.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-090509.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 2 - For the Horde!!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 2 - For the Horde!!</itunes:summary>
+<description>A new season has begun for But Wait, There's Lore. Pride gets a new co-host, Snapplemonkey!. They first task this season, teaching us about the First and Second War from the Horde's point of view.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,Horde</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:53 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-102409.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-102409.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-102409.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 2 - For the Alliance!!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 2 - For the Alliance!!</itunes:summary>
+<description>Happy Hallows End, kiddies! This week Pride and Snapple tell you all the things you need to know about the First and Second War from the Alliance's point of view.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,Alliance</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:23 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-103109.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-103109.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-103109.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 3 - Let's get Chaotic!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 3 - Let's get Chaotic!</itunes:summary>
+<description>Pride and Snapple jump deep into Warcraft III : The Frozen Throne by exploring the Human and Undead campaigns.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,human,undead</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:18 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-110709.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-110709.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-110709.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 4 - Real Elves don't look at Explosions</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 4 - Real Elves don't look at Explosions</itunes:summary>
+<description>This week, our resident lore buffs, Pride and Snapple, tell us the tale of the Orcs in Warcraft III : Reign of Chaos.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW.Horde,Orcs,Warcraft</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:12 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-111409.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-111409.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-111409.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 5 - The End is Nigh</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 5 - The End is Nigh</itunes:summary>
+<description>Its Pride's Birthday today! Yeah!!!! Also, Pride and Snapple discuss Eternity's End, the Warcraft III Night Elf Campaign.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Warcraft,Nightelf,birthday</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:07 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-112109.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-112109.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-112109.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 6 - Now Boardcasting in HD.......Audio</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 6 - Now Boardcasting in HD.......Audio</itunes:summary>
+<description>For the first time ever, well here at least, pod-casting comes to you in High Definition! On this week's show, Pride and Snapple get into the oldest argument in the history of WoW, Lore vs. Game Mechanics!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 01:00 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-112809.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-112809.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-112809.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 7 - Leadership is Key</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 7 - Leadership is Key</itunes:summary>
+<description>This week, Pride and Snapplemonkey take on the task of teachings all about the two factions leaders in WoW. King Varian Wrynn of the Alliance and Warchief Thrall of the Horde!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW,Thrall,Wrynn,Alliance,Horde</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:55 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-120509.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-120509.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-120509.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 8 - Council of Tirisfal</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 8 - Council of Tirisfal</itunes:summary>
+<description>Pride & Snapplemonkey tell you everything you could possibly want to know about The Council of Tirisfal. From its formations, to its fall form grace, to its return to the spotlight. Enjoy this special 1 hour episode of greatness!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,lore,WoW.counciloftirisfal</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:45 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-121209.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-121209.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-121209.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 9 - Shinoda, Snapple and Pride, oh my!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 9 - Shinoda, Snapple and Pride, oh my!</itunes:summary>
+<description>Some interesting news about the Hosts of BTWL. Also a recap of some of the races of WoW and future topics!</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Pride,Snapplemonkey,Shinoda,lore,WoW</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:35 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-010210.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-010210.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-010210.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 11  -  Lore going L33T!!!</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 11  -  Lore going L33T!!!</itunes:summary>
+<description>Its Snapplemonkey's Birthday, Leto comes by to visit and loads and loads of Paladin Rage!!!!! And the Return of Stixus is announced...the monster awakens.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Leto,Snapplemonkey,Shinoda,Stixus,Paladin,birthday,lore,WoW </itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:32 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-011610.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-011610.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-011610.mp3</guid>
+</item>
+<item>
+<title>The Council of Six - But Wait, There's Lore Season 2  - Episode 12  -  Oh....kae</title>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>But Wait, There's Lore Season 2  - Episode 12  -  Oh....kae</itunes:summary>
+<description>Kae joins Pride, Snapplemonkey, Shinoda and Leto for this exciting episode of BWTL with updates some the Council of Six as well as the lore behind Taurens and Gnomes.</description>
+<itunes:duration></itunes:duration>
+<itunes:keywords>Kae,Leto,Pride,Snapplemonkey,Shinoda,Lore,Councilofsix,Tauren,Gnome,WoW</itunes:keywords>
+<itunes:explicit>No</itunes:explicit>
+<pubDate>Jan 27, 2010 12:19 PM</pubDate>
+<enclosure type='audio/mpeg' url='http://councilofsix.s3.amazonaws.com/wow-bwtl-012310.mp3' length='1'/>
+<link>http://councilofsix.s3.amazonaws.com/wow-bwtl-012310.mp3</link>
+<guid>http://councilofsix.s3.amazonaws.com/wow-bwtl-012310.mp3</guid>
+</item>
+</channel>
+</rss>

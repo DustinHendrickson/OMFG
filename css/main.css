@@ -1,0 +1,541 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Color Refrences */
+@variables {
+  DarkBackground: #333333);
+  LightBackground: #5e5e5e;
+  Orange: #c66504;
+  Green: #24d21b;
+  Blue: #2154d7;
+  DarkGrey: #232323;
+}
+
+	Body {
+		margin: 0px;
+		background-color: #333333;
+		font-size: 14px;
+		color: White;
+		font-family: Arial, Helvetica, sans-serif;
+		background-image:url('../images/BackGround.png');
+		background-repeat: repeat-y;
+		background-position:top center;
+		background-attachment: fixed;
+	}
+	
+	/* Link Colors */
+	
+	a               { 	color: White; text-decoration: underline; }
+	a:visited 	{ 	color: White; text-decoration: underline; }
+	a:hover 	{ 	color: #c66504; text-decoration: none;	  }
+	a:active 	{	color: White; text-decoration: underline; }
+
+	a.NavOpenL		{ color: Black; text-decoration:none; }
+	a.NavOpenL:visited 	{ color: Black; text-decoration:none; }
+	a.NavOpenL:hover 	{ color: #333333; text-decoration:none; }
+	a.NavOpenL:active	{ color: Black; text-decoration:none; }
+
+	a.NavClosed 		{ color: White; text-decoration:none; }
+	a.NavClosed:visited     { color: White; text-decoration:none; }
+	a.NavClosed:hover 	{ color: #c66504; text-decoration:none; }
+	a.NavClosed:active      { color: White; text-decoration:none; }
+	
+	a.Content		{ color: #c66504; text-decoration:none; }
+	a.Content:visited 	{ color: #c66504; text-decoration:none; }
+	a.Content:hover 	{ color: #24d21b; text-decoration:none; }
+	a.Content:active	{ color: #c66504; text-decoration:none; }
+
+
+	
+	/* Utility Divs */
+	
+	.floatl { float: left; }
+	
+	.floatr { float: right; }
+	
+	.clear { clear:both; }
+	
+	/* Wrappers and Divs for main page */
+	
+	#MainWrap {
+		padding-bottom: 10px;
+		padding-top: 10px;
+		width: 980px;
+		border-bottom: 3px solid #c66504;
+		
+	}
+	
+	#HeaderWrap {
+		margin-bottom: 20px;
+		width: 980px;
+		height: 90px;
+		
+	}
+	
+	.Logo {
+		margin-right: 20px;
+		text-align: left;
+		width: 230px;
+		height: 90px;
+	}
+	
+	.BannerAd {
+		margin-left: 20px;
+		text-align: right;
+		width: 730px;
+		height: 90px;
+	}
+	
+	#NavigationWrap {
+		clear: both;
+		width: 980px; /* Base Width 980 */
+		height: 25px;
+	}
+	
+	.NavOpen {
+		height: 22px;
+		background-image:url('../images/navbg.png');
+		color: White;
+		font-size: 20px;
+		padding-top: 3px;
+	}
+	
+	.NavClosed {
+		height: 22px;
+		color: White;
+		font-size: 20px;
+		margin-right: 5px;
+		margin-left: 5px;
+		padding-top: 3px;
+	}
+	
+	
+	#FlashWrap {
+		text-align: left;
+		width: 980px; /* Base Size 980 */
+		height: 280px; /* Base Size 256 */
+		padding-bottom: 5px;
+		padding-top: 0px;
+		background-color: #575757;
+		
+	}
+	
+	#ContentWrap {
+		padding-top: 10px;
+		width: 980px;
+	}
+	
+	.ForumContent {
+		width: 980px;
+	}
+	
+	.LeftContent {
+		text-align: left;
+		padding-right: 5px;
+		width: 230px;
+	}
+	
+	.CenterContent {
+		text-align: left;
+		width: 620px;
+	}
+	
+	.RightContent {
+		text-align: left;
+		padding-left: 5px;
+		width: 120px;
+	}
+	
+		.ModuleHeader {
+			font-size: 16px;
+			text-align: center;
+			font-weight: 900;
+			color: #ffdd4f;
+			display: block;
+			width: 230px;
+			height: 30px;
+			background-image:url('../images/moduletopper.png');
+			padding-top:10px;
+				 
+		}
+		
+		.OnAirHeader {
+			font-size: 16px;
+			text-align: center;
+			font-weight: 900;
+			display: block;
+			color: #ffdd4f;
+			display: block;
+			width: 250px;
+			height: 34px;
+			background-image:url('../images/onairtopper.png');
+			padding-top:6px;
+				 
+		}
+		
+		.OnAirFooter {
+			text-align: center;
+			display: block;
+			width: 250px;
+			height: 10px;
+			background-image:url('../images/onairbottom.png');
+				 
+		}
+		
+		.ModuleFooter {
+			text-align: center;
+			display: block;
+			width: 230px;
+			height: 10px;
+			background-image:url('../images/modulebottom.png');
+				 
+		}
+
+		.CenterHeader {
+			font-size: 16px;
+			font-weight: 900;
+			color: #ffdd4f;
+			display: block;
+			text-align: center;
+			width: 620px; /* Base Size 620 */
+			height: 30px;
+			background-image:url('../images/centerpage.png');
+			padding-top:10px;
+		}
+		
+		.CenterFooter {
+			text-align: center;
+			display: block;
+			width: 620px;
+			height: 10px;
+			background-image:url('../images/centerpagebottom.png');
+		}
+		
+		
+		
+	#CenterNewsWrap {
+		background-color: #333333; 
+		/* border: 1px solid #5e5e5e; */
+		text-align: left;
+		padding: 5px;
+		width: 588px; /* Base Size 500 */
+	}
+	
+	#CenterPageWrap {
+		background-image:url('../images/centerpagebg.png');
+		background-repeat: repeat-y;
+		text-align: center;
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 600px; /* Base Size 510 */
+	}
+	
+	#ModuleWrap {
+		width: 220px; /* Base Size 230 */
+		background-image:url('../images/modulebackground.png');
+		background-repeat: repeat-y;
+		padding: 5px;
+		
+	}
+	
+	#OnAirWrap {
+		text-align: center;
+		width: 240px; /* Base Size 250 */
+		height: 200px;
+		display: block;
+		background-image:url('../images/onairbackground.png');
+		background-repeat: repeat-y;
+		padding-left: 5px;
+		padding-top: 5px;
+		padding-right: 5px;
+		
+	}
+	
+	.FlashLeft {
+		float: left;
+		width: 250px;
+		height: 250px;
+	}
+	
+	#FlashRight {
+		float: left;
+		width: 720px;
+		height: 250px;
+		margin-left: 10px;
+	}
+	
+	#PaginationWrap {
+		background-repeat: repeat-y;
+		text-align: center;
+		padding-left:20px;
+		padding-right:20px;
+		height: 14px;
+		width: 470px; /* Base Size 510 */
+		
+	}
+	
+	
+	.Footer {
+		margin-bottom: 50px;
+		width: 980px;
+		clear:both
+		font-size:9px;
+		color: White;
+		height: 20px;
+		padding-top: 20px;
+	}
+	
+	/* Community Footer */
+	
+	#CommunityFooter {
+		display: none;
+	}
+
+html>body #CommunityFooter {
+		width: 100%;
+		color: White;
+		height: 20px;
+		border-top: 2px solid #c66504;
+		background: #333333;
+		display: block;
+		position: fixed;
+		text-align: center;
+		bottom: 0;
+		padding-top: 5px;
+		clear:both
+		z-index:900;
+}
+	
+	#AchievementDisplay {
+		display: none;
+		
+	}
+	
+html>body #AchievementDisplay {
+		width: 36px;
+		height: 52px; /* Base is 104 */
+		display: block;
+		position: fixed;
+		text-align: center;
+		bottom: 0;
+		right: 0;
+		padding-top: 50px;
+		background-image:url('../images/achievementuibg.png');
+		clear:both
+		font-weight: 700;
+		font-size: 9px;
+		color: Black;
+		z-index:800;
+}
+
+	#WebPlayerDisplay {
+		display: none;
+		
+	}
+	
+html>body #WebPlayerDisplay {
+		width: 290px;
+		height: 140px; /* Base is 104 */
+		display: block;
+		position: fixed;
+		text-align: center;
+		bottom: 0;
+		padding: 5px;
+		background-image:url('../images/webplayerbg.png');
+		clear:both
+		z-index:1000;
+}
+
+
+	/* Shows Page */
+	#ShowWrap {
+		width: 595px;
+		height: 250px;
+		display: block;
+		border: 1px solid #5e5e5e;
+	}
+	
+	.ShowLeft {
+		width: 235px;
+		height: 150px;
+		margin-right: 5px;
+		display:block;
+		background-color: #5e5e5e;
+	}
+	
+	.ShowRight {
+		padding: 1px;
+		height: 228px;
+		width: 350px;
+		font-size: 14px;
+		text-align: left;
+		display: block;
+	}
+	
+	.ShowLinks {
+		height:	20px;
+		width: 595px;
+		display: block;
+	}
+	
+	.ShowLink {
+		padding:2px;
+		padding-left: 5px;
+		padding-right: 5px;
+		height: 16px;
+		text-align: center;
+		background-color: #333333;
+		display: block;
+	}
+	
+	/* Text Formating */
+	
+	
+	.CenterTitle {
+		color: #c66504;
+		font-size: 18px;
+		text-align: center;
+	}
+	
+	.CenterAuthorDate {
+		font-size: 12px;
+		font-weight: bolder ;
+		text-align: center;
+	}
+	
+	.CenterShowImage {
+		margin-bottom: 20px;
+		height: 14px;
+		font-size: 10px;
+		color: White;
+		text-align: center;
+		
+	}
+	.CenterBody {
+		font-size: 14px;
+		color: White;
+		
+	}
+	
+	.Tags {
+		margin-top: 5px;
+		font-size: 10px;
+		color: #5e5e5e;
+		text-align: center;
+	}
+	
+	/* Pagination */
+	
+	.Pagination {
+		align: center;
+		width: 15px;
+		height: 14px;
+		display: block;
+		margin-left:5px;
+		margin-right:5px;
+		color: White;
+		
+	}
+	
+	.PaginationActive {
+		width: 15px;
+		height: 14px;
+		display: block;
+		margin-left:5px;
+		margin-right:5px;
+		color: #333333;
+		background-color: #c66504;
+	}
+	
+	
+	/* Twitter Feed */
+	.tweet {
+		font-size: 12px;
+	}
+	.tweetdate{
+		font-size: 12px;
+		color: #5E5E5E;
+	}
+	
+	/* Web Player */
+	
+	#WebPlayerWrapper {
+		display: block;
+		width: 290px;
+		height: 65px;
+		padding: 5px;
+		background-image:url('../images/webplayerbg.png');
+		
+	}
+	#InventoryToggleButton {
+	}
+	
+	/* Achievement Box */
+	
+	#AchievementWrapper {
+		display: block;
+		width: 300px;
+		height: 75px;
+		background-image:url('../images/achievementbg.png');
+		
+	}
+	
+	.AchievementImage {
+		padding-top: 10px;
+		padding-left: 10px;
+		display: block;
+		width: 55px: /* Base is 65 */
+		height: 65px;
+	}
+	
+	.AchievementText {
+		padding-top: 10px;
+		padding-left:10px;
+		width: 215px; /* Base is 225 */
+		height: 65px;
+	}
+	
+	
+	
+	
+	/* Recent Archives */
+	.recentdate{
+		color: #5E5E5E;
+	}
+	/* AdminNews CSS */
+	
+	#headerDiv, #contentDiv {
+		float: left;
+		width: 100%;
+	}
+
+	#titleText {
+		float: left;
+		padding-left: 5px;
+		font-size: 1.2em;
+		font-weight: bold;
+	}
+
+	#headerDiv {
+		background-color: #5e5e5e;
+		margin-top: 5px;
+		color: White;
+		font-size:10px;
+	}
+
+	#contentDiv {
+		background-color: #333333;
+	}
+
+	#myContent {
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+
+	#headerDiv a {
+		float: right;
+	}
+	
+	#headerDiv a:hover {
+		color: #FFFFFF;
+	}

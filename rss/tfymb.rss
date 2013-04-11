@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+<channel>
+<title>Tales from Your Mom's Basement : An Original Media For Gamers Production</title>
+<link>http://www.omfg.fm</link>
+<language>en-us</language>
+<copyright>2011 Original Media for Gamers</copyright>
+<itunes:subtitle>Tales from Your Mom's Basement</itunes:subtitle>
+<itunes:author>Director : Arazi</itunes:author>
+<itunes:summary>Tales from Your Mom's Basement is a half-hour radio play anthology series produced 100% LIVE every week.  With a few "To Be continueds" aside, every episode is completely unique in story, characters, and genre, and every episode features an original script and a cast of professional actors and foley artists coming from our studio in North Hollywood.  For traditional, classic style radio play entertainment, look no further than Tales from Your Mom's Basement.</itunes:summary>
+<description>Tales from Your Mom's Basement is a half-hour radio play anthology series produced 100% LIVE every week.  With a few "To Be continueds" aside, every episode is completely unique in story, characters, and genre, and every episode features an original script and a cast of professional actors and foley artists coming from our studio in North Hollywood.  For traditional, classic style radio play entertainment, look no further than Tales from Your Mom's Basement.</description>
+<itunes:owner>
+<itunes:name>Director : Arazi</itunes:name>
+<itunes:email>tales@omfg.fm</itunes:email>
+</itunes:owner>
+<itunes:image href='basement-235x150.png'/>
+<image>
+<link>http://www.omfg.fm</link>
+<url>basement-235x150.png</url>
+<title>Tales from Your Mom's Basement : An Original Media For Gamers Production</title>
+<width>235</width>
+<height>150</height>
+</image>
+<itunes:category text='Games &amp; Hobbies'>
+<itunes:category text='Video Games'/>
+</itunes:category>
+<itunes:category text='Technology'>
+<itunes:category text='Podcasting'/>
+</itunes:category>
+<itunes:explicit>No</itunes:explicit>
+</channel>
+</rss>
