@@ -81,9 +81,9 @@ function toggle2(showHideDiv, switchTextDiv) {
 <?php
 
 	$sql = PaginationStart("*","supporttickets","ID","DESC","10");
-	//$sql = mysql_query("SELECT * FROM News ORDER BY NewsDate DESC");
+	//$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM News ORDER BY NewsDate DESC");
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 
 			$ID= $row["ID"];
 			$User=  $row["User"];

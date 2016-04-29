@@ -2,9 +2,9 @@
 	//Updates the RSS Feed
 	function UpdateRSS($showid) {
 		
-		$sql = mysql_query("SELECT * FROM shows WHERE ID = $showid ORDER BY ID DESC");
+		$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM shows WHERE ID = $showid ORDER BY ID DESC");
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 			
 			$ID= $row["ID"];
 			$Name= $row["Name"];
@@ -67,11 +67,11 @@
     
 		}
 		
-		$sql2 = mysql_query("SELECT * FROM archives WHERE ShowID = $showid ORDER BY ID DESC");
+		$sql2 = mysqli_query($GLOBALS['con'], "SELECT * FROM archives WHERE ShowID = $showid ORDER BY ID DESC");
 		
 		if (mysql_num_rows($sql2) > 0) {
 			
-		while($row = mysql_fetch_array($sql2)) {
+		while($row = mysqli_fetch_array($sql2)) {
 
 			$EpisodeName= $row["Name"];
 			$Link= $row["Link"];
@@ -155,14 +155,14 @@ fclose($fh);
     $output .= "<itunes:explicit>Yes</itunes:explicit>\n";
     
 		
-		$sql2 = mysql_query("SELECT * FROM archives ORDER BY ID DESC LIMIT 0, 100");
+		$sql2 = mysqli_query($GLOBALS['con'], "SELECT * FROM archives ORDER BY ID DESC LIMIT 0, 100");
 		
 		if (mysql_num_rows($sql2) > 0) {
 			
-		while($row = mysql_fetch_array($sql2)) {
+		while($row = mysqli_fetch_array($sql2)) {
 			
-		$sql3 = mysql_query("SELECT * FROM shows WHERE ID = ".$row['ShowID']);			
-		while($row2 = mysql_fetch_array($sql3)) { $Name = $row2['Name']; }
+		$sql3 = mysqli_query($GLOBALS['con'], "SELECT * FROM shows WHERE ID = ".$row['ShowID']);			
+		while($row2 = mysqli_fetch_array($sql3)) { $Name = $row2['Name']; }
 			
 			$EpisodeName= $row["Name"];
 			$Link= $row["Link"];
@@ -208,16 +208,16 @@ fclose($fh);
 
 	function AddArchive($Link,$Show,$Title,$Tags,$Content,$Duration) {
 		
-			$sql = mysql_query("SELECT * FROM shows WHERE Name = '".$Show."'");
+			$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM shows WHERE Name = '".$Show."'");
 
-			while($row = mysql_fetch_array($sql)) {
+			while($row = mysqli_fetch_array($sql)) {
 				$ShowID =  $row["ID"];
 				$RSSFileName = $row['RSSFileName'];
 			}
 		
 			$Date = date('M d, Y h:i A');
 			$source = "INSERT INTO archives (Link, Name, ShowID, Tags, ShowNotes, Date, Duration) VALUES ('$Link', '$Title', '$ShowID', '$Tags', '$Content', '$Date', '$Duration')";
-			$sql = mysql_query($source) or die(mysql_error());
+			$sql = mysqli_query($GLOBALS['con'], $source) or die(mysqli_error());
 			if ($RSSFileName != "none") {
 				UpdateRSS($ShowID);
 				UpdateShowsRSS();
@@ -228,16 +228,16 @@ fclose($fh);
 		
 	function EditArchive($ID,$Link,$Show,$Title,$Tags,$Content,$Duration) {
 		
-			$sql = mysql_query("SELECT * FROM shows WHERE Name = '".$Show."' LIMIT 0, 100");
+			$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM shows WHERE Name = '".$Show."' LIMIT 0, 100");
 
-			while($row = mysql_fetch_array($sql)) {
+			while($row = mysqli_fetch_array($sql)) {
 				$ShowID =  $row["ID"];
 				$RSSFileName = $row['RSSFileName'];
 			}
 		
 			$source = "UPDATE archives SET Link = '$Link', Name = '$Title', ShowID = '$ShowID', Tags = '$Tags', ShowNotes = '$Content', Duration = '$Duration' WHERE ID = '$ID'";
 			
-			$sql2 = mysql_query($source) or die(mysql_error());
+			$sql2 = mysqli_query($GLOBALS['con'], $source) or die(mysqli_error());
 			if ($RSSFileName != "none") {
 				UpdateRSS($ShowID);
 				UpdateShowsRSS();
@@ -249,7 +249,7 @@ fclose($fh);
 			
 			$sql = "DELETE FROM archives WHERE ID = '$id'";
 
-			$sql2 = mysql_query($sql);
+			$sql2 = mysqli_query($GLOBALS['con'], $sql);
 			UpdateRSS($showid);
 			UpdateShowsRSS();
 		

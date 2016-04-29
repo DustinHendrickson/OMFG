@@ -20,12 +20,12 @@ function toggle3(showHideDiv, switchTextDiv) {
 	
 	//Check to see if a certain Show ID is provided.
 	if (isset($ShowID)) {
-		$sql = mysql_query("SELECT * FROM shows WHERE ID = ".$ShowID."");
+		$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM shows WHERE ID = ".$ShowID."");
 	} else {
 		$sql = PaginationStart("*","shows","ID","ASC","7");
 	}
 	
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 			
 			$ID= $row["ID"];
 			$Name= $row["Name"];
@@ -79,7 +79,7 @@ function toggle3(showHideDiv, switchTextDiv) {
 	if (isset($ShowID)) {
 	$sql = PaginationStart("*","archives","ID","DESC","10",$ShowID,"ShowID");
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 
 			$ID= $row["ID"];
 			$Name=  $row["Name"];

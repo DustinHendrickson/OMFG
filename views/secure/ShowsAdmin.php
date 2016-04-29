@@ -211,11 +211,11 @@ function toggle2(showHideDiv, switchTextDiv) {
 <?php
 
 	$sql = PaginationStart("*","shows","ID","DESC","20");
-	//$sql = mysql_query("SELECT * FROM News ORDER BY NewsDate DESC");
+	//$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM News ORDER BY NewsDate DESC");
 		$Days = array(0 => "Monday", 1 => "Tuesday", 2 => "Wednesday", 3 => "Thursday", 4 => "Friday", 5 => "Saturday", 6 => "Sunday" );
 		$Hours = array(0 => "AM", 1 => "PM");
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 
 			$ID= $row["ID"];
 			$Name=  $row["Name"];

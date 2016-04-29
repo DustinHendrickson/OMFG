@@ -71,7 +71,7 @@ function toggle2(showHideDiv, switchTextDiv) {
 
 	$sql = PaginationStart("*","archives","ID","DESC","20");
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 
 			$ID= $row["ID"];
 			$Name=  $row["Name"];
@@ -82,9 +82,9 @@ function toggle2(showHideDiv, switchTextDiv) {
 			$ShowNotes = $row["ShowNotes"];
 			$Duration =$row["Duration"];
 			
-			$showsql = mysql_query("SELECT * FROM shows WHERE ID = '".$ShowID."'");
+			$showsql = mysqli_query($GLOBALS['con'], "SELECT * FROM shows WHERE ID = '".$ShowID."'");
 
-			while($row = mysql_fetch_array($showsql)) {
+			while($row = mysqli_fetch_array($showsql)) {
 
 				$ShowName =  $row["Name"];
 			}

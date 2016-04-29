@@ -2,25 +2,33 @@
 	
 	//Checks for user permision based on input
 	function CheckPagePermissions() {
-		require_once("forums/SSI.php");
+		//require_once("forums/SSI.php");
 		global  $context;
 		
 		$source = "SELECT * FROM smf_members WHERE memberName = '" . $context['user']['name'] ."'";
 
-		$sql = mysql_query($source);
-		while($row = mysql_fetch_array($sql)) {
+		$sql = mysqli_query($GLOBALS['con'], $source);
+		if ($sql) {
+			while ($row = mysqli_fetch_array($sql)) {
 
-			$ID_GROUP= $row["ID_GROUP"];
-			if ($ID_GROUP == 1 || $ID_GROUP == 6 || $ID_GROUP == 7 ) { $boolean = "true"; }
-			
+				$ID_GROUP = $row["ID_GROUP"];
+				if ($ID_GROUP == 1 || $ID_GROUP == 6 || $ID_GROUP == 7) {
+					$boolean = "true";
+				}
+
+			}
+
+			if ($boolean == "true") {
+				return true;
+			} else {
+				return false;
+			}
 		}
-		
-		if ($boolean == "true") { return true; } else { return false; }
 	}
 
 	//Login Form Display
 	function ShowLoginForm() {
-		require_once("forums/SSI.php");
+		//require_once("forums/SSI.php");
 		global  $context;
 		
 		$a = explode("/", $_SERVER['REQUEST_URI']);
@@ -32,7 +40,7 @@
 		if ( $context['user']['is_logged'] ) {
       		echo("Welcome [ " . $context['user']['name'] . " ]  ");
  		} else {
-			echo"<a href='http://omfg.fm/forums/?action=login'> Login</a> || <a href='http://omfg.fm/forums/?action=register'> Register";
+			echo"<a href=''> Login</a> || <a href=''> Register";
  		}
 		
 		//Show links for Staff

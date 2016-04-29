@@ -67,7 +67,7 @@
 	function mod_OnAir() {
 		$title = "onair.png";
  		
-		$sql = mysql_query("SELECT * FROM shows");
+		$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM shows");
 		
 			$ActualDay = date('l');
 			$ActualMinute = date('i');
@@ -79,7 +79,7 @@
 			$OnAirShow = "Archives are playing.";
 			$OnAirEmail = "Server Time: $ActualDay $ActualHour:$ActualMinute EST";
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 			
 			$Name= $row["Name"];
 			$ShowEmail = $row["ShowEmail"];
@@ -145,18 +145,18 @@
 	
 		echo "<div class='ModuleHeader'><img src='images/headers/$title'></div>";
 		echo "<div id='ModuleWrap'>";
-		$sql = mysql_query("SELECT * FROM archives ORDER BY ID DESC LIMIT 5");
+		$sql = mysqli_query($GLOBALS['con'], "SELECT * FROM archives ORDER BY ID DESC LIMIT 5");
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 
 			$Name= $row["Name"];
 			$Link= $row["Link"];
 			$Date= $row["Date"];
 			$ShowID= $row["ShowID"];
 			
-			$sql2 = mysql_query("SELECT * FROM shows WHERE ID = $ShowID");
+			$sql2 = mysqli_query($GLOBALS['con'], "SELECT * FROM shows WHERE ID = $ShowID");
 
-			while($row = mysql_fetch_array($sql2)) { $Show = $row["Name"]; }
+			while($row = mysqli_fetch_array($sql2)) { $Show = $row["Name"]; }
 		
 		echo "<strong><a href='?p=Shows&ID=$ShowID'>$Show</strong></a><br>";
 		echo "$Name<br>";
@@ -179,7 +179,7 @@
 		
 		$sql = PaginationStart("*","omfgnews","ID","DESC","4");
 
-		while($row = mysql_fetch_array($sql)) {
+		while($row = mysqli_fetch_array($sql)) {
 
 				$Title =  $row["NewsTitle"];
 				$Author =  $row["NewsAuthor"];

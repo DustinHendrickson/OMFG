@@ -29,31 +29,34 @@
 
 
 
-	function Navigation($page) {
+	function Navigation($page)
+    {
 
-		$p = $page;
-		
-		$sql = mysql_query("SELECT * FROM navigation ORDER BY ID ASC");
-		
-		while($row = mysql_fetch_array($sql)) {
+        $p = $page;
 
-			$Link =  $row["NavigationLink"];
-			$Name =  $row["NavigationName"];
-			
-			$Leftimage = "<img src='/images/navleft.png'>";
-			$Rightimage = "<img src='/images/navright.png'>";
-			
-			if ($p == $Name) {
-				$class = "NavOpen";
-				echo "<div style='margin-left: 5px;' class='floatl'>$Leftimage</div><div class='$class floatl'><a class='".$class."L' href='$Link'><img border='0' src='/images/headers/".$Name.".png'></a></div><div style='margin-right: 5px;' class='floatl'>$Rightimage</div>";
-			} else {
-				$class = "NavClosed";
-				echo "<div class='$class floatl'><a class='$class' href='$Link'><img border='0' src='/images/headers/".$Name.".png'></a></div>";
-			}				
-				
-		}
-		
-	}
+        $sql = mysqli_query($GLOBALS['con'], "SELECT * FROM navigation ORDER BY ID ASC");
+
+        if ($sql) {
+            while ($row = mysqli_fetch_array($sql)) {
+
+                $Link = $row["NavigationLink"];
+                $Name = $row["NavigationName"];
+
+                $Leftimage = "<img src='/images/navleft.png'>";
+                $Rightimage = "<img src='/images/navright.png'>";
+
+                if ($p == $Name) {
+                    $class = "NavOpen";
+                    echo "<div style='margin-left: 5px;' class='floatl'>$Leftimage</div><div class='$class floatl'><a class='" . $class . "L' href='$Link'><img border='0' src='/images/headers/" . $Name . ".png'></a></div><div style='margin-right: 5px;' class='floatl'>$Rightimage</div>";
+                } else {
+                    $class = "NavClosed";
+                    echo "<div class='$class floatl'><a class='$class' href='$Link'><img border='0' src='/images/headers/" . $Name . ".png'></a></div>";
+                }
+
+            }
+
+        }
+    }
 
 
 

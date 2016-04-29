@@ -1,8 +1,7 @@
 <?php   
  
  	function GetPageination($default) {
-		$page = $_GET['page'];
-		if (!isset($page)) { $page = $default; }
+		if (!isset($_GET['page'])) { $page = $default; } else { $page = $_GET['page']; }
 		return $page;
 	}
  
@@ -10,10 +9,10 @@
 	function PaginationStart($select,$table,$order,$sort,$max,$restrict=NULL,$restricttable=NULL) {
 		$page = GetPageination("1");
 		
-		if (isset($restrict)) { $restrictstring = "WHERE $restricttable = $restrict"; }
+		if (isset($restrict)) { $restrictstring = "WHERE {$restricttable} = {$restrict}"; } else { $restrictstring = ""; }
 		
 		$limits = ($page - 1) * $max; 
-		$sql = mysql_query("SELECT $select FROM $table $restrictstring ORDER by $order $sort LIMIT ".$limits.",$max") or die(mysql_error());
+		$sql = mysqli_query($GLOBALS['con'], "SELECT {$select} FROM {$table} {$restrictstring} ORDER by $order $sort LIMIT ".$limits.",$max");
 
 		return $sql;
 
@@ -24,11 +23,11 @@
 	function PaginationEnd($table,$max,$restrict=NULL,$restricttable=NULL,$showid=NULL) {
 		$page = GetPageination("1");
 		
-		if (isset($restrict)) { $restrictstring = "WHERE $restricttable = $restrict"; }
+		if (isset($restrict)) { $restrictstring = "WHERE $restricttable = $restrict"; } else { $restrictstring = ""; }
 		if (isset($showid)) { $show = "&ID=$showid"; }
 
 		
-		$totalres = mysql_result(mysql_query("SELECT COUNT(ID) AS tot FROM $table $restrictstring"),0);	
+		$totalres = mysqli_result(mysqli_query($GLOBALS['con'], "SELECT COUNT(ID) AS tot FROM {$table} {$restrictstring}"));
 		$totalpages = ceil($totalres / $max);
 		
 		
@@ -47,4 +46,15 @@
 		}
 		echo("<br>");
 	}
-?>
+
+function mysqli_result($res,$row=0,$col=0){
+	$numrows = mysqli_num_rows($res);
+	if ($numrows && $row <= ($numrows-1) && $row >=0){
+		mysqli_data_seek($res,$row);
+		$resrow = (is_numeric($col)) ? mysqli_fetch_row($res) : mysqli_fetch_assoc($res);
+		if (isset($resrow[$col])){
+			return $resrow[$col];
+		}
+	}
+	return false;
+}
